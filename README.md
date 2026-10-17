@@ -11,7 +11,7 @@ Each compare chart (QB, RB, WR) can also draw gray national reference lines, fro
 
 Completed seasons also show full-season totals.  Colors: crimson for the current season (on RB/WR, the first named player solid and the second dashed), then blue, amber, teal and purple for earlier seasons, newest first (two players per season: solid then dashed).  AP Top 5 teams use dotted lines in teal, violet, green, slate and orchid by poll rank.
 
-Live page: https://qb.daboodah.com/ (the old https://daboodah-oss.github.io/iu-qb-report/ address redirects here)
+Live page: https://iu.daboodah.com/ (the old https://daboodah-oss.github.io/iu-report/ address redirects here)
 
 The page follows the OS light/dark setting automatically; the sun/moon button in the header overrides it and remembers the choice (localStorage `qb-theme`).
 
@@ -56,7 +56,7 @@ No secret is stored in this repository, in GitHub Actions secrets, or in any fil
 
 | Credential | Where it lives | What it accesses | Scope | Owner | Expires | Renewal reminder | What breaks if it lapses |
 |---|---|---|---|---|---|---|---|
-| Fine-grained personal access token used for manual `git push` (and on-demand workflow runs from `tools/run_workflow.ps1`; `tools/gh_status.py` uses it only for a higher API rate limit) | Windows Credential Manager on Jeff's PC (entry `git:https://github.com`), stored by Git Credential Manager on first push.  Master copy in LastPass ("GitHub Token - iu-qb-report") | `daboodah-oss/iu-qb-report` only: Contents read/write, Actions read/write, Workflows read/write, Pages read/write, Metadata read | Single-repo fine-grained PAT; no Administration, no other repositories, no account settings | Jeff Bandera (GitHub account `daboodah-oss`) | Created 2026-09-26; expires 2027-01-04 | 2026-12-21 (14 days before expiry) | Code pushes from Jeff's PC (including changes Claude prepares as patch files) and on-demand workflow dispatches from the PC.  The scheduled Actions runs are unaffected: they use GitHub's temporary per-run `GITHUB_TOKEN` (`contents: write`, this repository only), which expires when each run ends |
+| Fine-grained personal access token used for manual `git push` (and on-demand workflow runs from `tools/run_workflow.ps1`; `tools/gh_status.py` uses it only for a higher API rate limit) | Windows Credential Manager on Jeff's PC (entry `git:https://github.com`), stored by Git Credential Manager on first push.  Master copy in LastPass ("GitHub Token - iu-qb-report") | `daboodah-oss/iu-report` only: Contents read/write, Actions read/write, Workflows read/write, Pages read/write, Metadata read | Single-repo fine-grained PAT; no Administration, no other repositories, no account settings | Jeff Bandera (GitHub account `daboodah-oss`) | Created 2026-09-26; expires 2027-01-04 | 2026-12-21 (14 days before expiry) | Code pushes from Jeff's PC (including changes Claude prepares as patch files) and on-demand workflow dispatches from the PC.  The scheduled Actions runs are unaffected: they use GitHub's temporary per-run `GITHUB_TOKEN` (`contents: write`, this repository only), which expires when each run ends |
 
 **Machine-bound step: code pushes and on-demand runs.**
 - Machine: Jeff's Windows PC (`jeff-cppc-2022`), git working copy at `C:\Users\jeffb\github\iu-qb-report` (outside OneDrive; the OneDrive project folder is not a repository).
