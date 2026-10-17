@@ -1,4 +1,4 @@
-# AGENTS.md — working conventions for iu-qb-report
+# AGENTS.md — working conventions for iu-report
 
 This repo is a self-running pipeline. It must keep working with no human or AI
 in the loop: GitHub Actions does everything on a schedule, and the validation
@@ -19,7 +19,7 @@ in `build_report.py` is the quality gate. Follow these rules so any helper
    `index.html` from `template.html`. **If any validation check fails, nothing
    is published** — this is the rule that lets strangers contribute safely.
 4. `.github/workflows/update.yml` commits the result back to `main`, which
-   GitHub Pages serves at https://qb.daboodah.com/.
+   GitHub Pages serves at https://iu.daboodah.com/.
 
 No AI or paid service is involved in the scheduled run. Keep it that way.
 
@@ -45,7 +45,7 @@ No AI or paid service is involved in the scheduled run. Keep it that way.
    is how multi-helper projects rot; the schedule change of 2026-10-04 was
    almost missed.
 5. **Do not remove or let any step overwrite the `CNAME` file.** It holds the
-   custom domain (`qb.daboodah.com`). The workflow only stages
+   custom domain (`iu.daboodah.com`). The workflow only stages
    `data/`, `index.html`, and `logs/` — keep it that way.
 6. **Keep page output deterministic.** No live API calls, no AI-generated
    text in the scheduled build. Editorial judgment (discrepancy writeups,
