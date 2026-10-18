@@ -3852,7 +3852,7 @@
       }
      ],
      "complete": false,
-     "retrieved_at": "2026-10-18T18:59+00:00",
+     "retrieved_at": "2026-10-18T22:38+00:00",
      "check": "cfbstats season totals matched through 2026-10-17",
      "cfbstats_url": "https://cfbstats.com/2026/team/306/index.html"
     }
@@ -3984,7 +3984,7 @@
       }
      ],
      "complete": false,
-     "retrieved_at": "2026-10-18T18:59+00:00",
+     "retrieved_at": "2026-10-18T22:38+00:00",
      "check": "cfbstats season totals matched through 2026-10-17",
      "cfbstats_url": "https://cfbstats.com/2026/team/257/index.html"
     }
@@ -4116,7 +4116,7 @@
       }
      ],
      "complete": false,
-     "retrieved_at": "2026-10-18T18:59+00:00",
+     "retrieved_at": "2026-10-18T22:38+00:00",
      "check": "cfbstats season totals matched through 2026-10-17",
      "cfbstats_url": "https://cfbstats.com/2026/team/513/index.html"
     }
@@ -4231,7 +4231,7 @@
       }
      ],
      "complete": false,
-     "retrieved_at": "2026-10-18T18:59+00:00",
+     "retrieved_at": "2026-10-18T22:38+00:00",
      "check": "cfbstats season totals matched through 2026-10-17",
      "cfbstats_url": "https://cfbstats.com/2026/team/415/index.html"
     }
@@ -4363,7 +4363,7 @@
       }
      ],
      "complete": false,
-     "retrieved_at": "2026-10-18T18:59+00:00",
+     "retrieved_at": "2026-10-18T22:38+00:00",
      "check": "cfbstats season totals matched through 2026-10-17",
      "cfbstats_url": "https://cfbstats.com/2026/team/518/index.html"
     }
@@ -4478,7 +4478,7 @@
       }
      ],
      "complete": false,
-     "retrieved_at": "2026-10-18T18:59+00:00",
+     "retrieved_at": "2026-10-18T22:38+00:00",
      "check": "cfbstats season totals matched through 2026-10-17",
      "cfbstats_url": "https://cfbstats.com/2026/team/77/index.html"
     }
@@ -4539,6 +4539,6 @@
    }
   ],
   "source_url": "https://www.espn.com/college-football/rankings",
-  "retrieved_at": "2026-10-18T18:59+00:00"
+  "retrieved_at": "2026-10-18T22:38+00:00"
  }
 }
