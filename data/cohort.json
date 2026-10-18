@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "rule": "The four highest-ranked quarterbacks in consensus Heisman odds, other than Hoover. Game logs from ESPN.",
- "retrieved_at": "2026-10-17T21:59+00:00",
+ "retrieved_at": "2026-10-18T05:27+00:00",
  "qbs": [
   {
    "name": "Jeremiah Smith",
@@ -196,6 +196,21 @@
      "rec": 0,
      "rec_yds": 0,
      "rec_td": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opp": "Florida State Seminoles",
+     "result": "W 43-35 2OT",
+     "cmp": 23,
+     "att": 34,
+     "yds": 326,
+     "td": 3,
+     "int": 1,
+     "rush_yds": 6,
+     "rush_td": 0,
+     "rec": 0,
+     "rec_yds": 0,
+     "rec_td": 0
     }
    ]
   },
@@ -294,6 +309,21 @@
      "rec": 0,
      "rec_yds": 0,
      "rec_td": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opp": "BYU Cougars",
+     "result": "L 28-24",
+     "cmp": 27,
+     "att": 49,
+     "yds": 261,
+     "td": 0,
+     "int": 0,
+     "rush_yds": 13,
+     "rush_td": 0,
+     "rec": 0,
+     "rec_yds": 0,
+     "rec_td": 0
     }
    ]
   },
@@ -373,6 +403,21 @@
      "td": 3,
      "int": 1,
      "rush_yds": 5,
+     "rush_td": 1,
+     "rec": 0,
+     "rec_yds": 0,
+     "rec_td": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opp": "Missouri Tigers",
+     "result": "W 31-3",
+     "cmp": 20,
+     "att": 36,
+     "yds": 241,
+     "td": 3,
+     "int": 0,
+     "rush_yds": 14,
      "rush_td": 1,
      "rec": 0,
      "rec_yds": 0,

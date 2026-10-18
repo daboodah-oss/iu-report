@@ -3852,7 +3852,7 @@
       }
      ],
      "complete": false,
-     "retrieved_at": "2026-10-17T21:59+00:00",
+     "retrieved_at": "2026-10-18T05:27+00:00",
      "check": "not cross-checked yet: cfbstats has 6 games through 2026-10-16, ESPN 7",
      "cfbstats_url": null
     }
@@ -3964,12 +3964,29 @@
        "to_gained": 1,
        "third_conv": 7,
        "third_att": 13
+      },
+      {
+       "event": "401856719",
+       "date": "2026-10-17",
+       "opp": "Auburn",
+       "opp_id": "2",
+       "site": "H",
+       "pf": 24,
+       "pa": 27,
+       "result": "L 24-27",
+       "total_yds": 440,
+       "rush_yds": 113,
+       "pass_yds": 327,
+       "to_lost": 3,
+       "to_gained": 0,
+       "third_conv": 6,
+       "third_att": 12
       }
      ],
      "complete": false,
-     "retrieved_at": "2026-10-17T21:59+00:00",
-     "check": "cfbstats season totals matched through 2026-10-16",
-     "cfbstats_url": "https://cfbstats.com/2026/team/257/index.html"
+     "retrieved_at": "2026-10-18T05:27+00:00",
+     "check": "not cross-checked yet: cfbstats has 6 games through 2026-10-16, ESPN 7",
+     "cfbstats_url": null
     }
    }
   },
@@ -4079,12 +4096,29 @@
        "to_gained": 3,
        "third_conv": 8,
        "third_att": 13
+      },
+      {
+       "event": "401856809",
+       "date": "2026-10-17",
+       "opp": "BYU",
+       "opp_id": "252",
+       "site": "A",
+       "pf": 24,
+       "pa": 28,
+       "result": "L 24-28",
+       "total_yds": 376,
+       "rush_yds": 115,
+       "pass_yds": 261,
+       "to_lost": 1,
+       "to_gained": 2,
+       "third_conv": 8,
+       "third_att": 19
       }
      ],
      "complete": false,
-     "retrieved_at": "2026-10-17T21:59+00:00",
-     "check": "cfbstats season totals matched through 2026-10-16",
-     "cfbstats_url": "https://cfbstats.com/2026/team/513/index.html"
+     "retrieved_at": "2026-10-18T05:27+00:00",
+     "check": "not cross-checked yet: cfbstats has 6 games through 2026-10-16, ESPN 7",
+     "cfbstats_url": null
     }
    }
   },
@@ -4177,12 +4211,29 @@
        "to_gained": 2,
        "third_conv": 4,
        "third_att": 11
+      },
+      {
+       "event": "401858263",
+       "date": "2026-10-17",
+       "opp": "Florida State",
+       "opp_id": "52",
+       "site": "H",
+       "pf": 43,
+       "pa": 35,
+       "result": "W 43-35",
+       "total_yds": 583,
+       "rush_yds": 257,
+       "pass_yds": 326,
+       "to_lost": 1,
+       "to_gained": 2,
+       "third_conv": 8,
+       "third_att": 15
       }
      ],
      "complete": false,
-     "retrieved_at": "2026-10-17T21:59+00:00",
-     "check": "cfbstats season totals matched through 2026-10-16",
-     "cfbstats_url": "https://cfbstats.com/2026/team/415/index.html"
+     "retrieved_at": "2026-10-18T05:27+00:00",
+     "check": "not cross-checked yet: cfbstats has 5 games through 2026-10-16, ESPN 6",
+     "cfbstats_url": null
     }
    }
   },
@@ -4312,7 +4363,7 @@
       }
      ],
      "complete": false,
-     "retrieved_at": "2026-10-17T21:59+00:00",
+     "retrieved_at": "2026-10-18T05:27+00:00",
      "check": "not cross-checked yet: cfbstats has 6 games through 2026-10-16, ESPN 7",
      "cfbstats_url": null
     }
@@ -4373,6 +4424,6 @@
    }
   ],
   "source_url": "https://www.espn.com/college-football/rankings",
-  "retrieved_at": "2026-10-17T21:59+00:00"
+  "retrieved_at": "2026-10-18T05:27+00:00"
  }
 }
