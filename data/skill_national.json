@@ -1,7 +1,7 @@
 {
  "rb": {
   "latest": {
-   "data_through": "2026-10-17",
+   "data_through": "2026-10-20",
    "boards": {
     "yds": {
      "label": "Rushing yards",
@@ -105,7 +105,7 @@
        "g": 7
       },
       "Turbo Richard": {
-       "rank": 31,
+       "rank": 32,
        "value": 6.0,
        "g": 7
       }
@@ -219,7 +219,7 @@
     "Lee Beebe Jr.",
     "Turbo Richard"
    ],
-   "retrieved_at": "2026-10-18T22:38+00:00"
+   "retrieved_at": "2026-10-21T18:59+00:00"
   },
   "rank_history": [
    {
@@ -255,12 +255,29 @@
       "ypg": 24
      }
     }
+   },
+   {
+    "through": "2026-10-20",
+    "ranks": {
+     "Lee Beebe Jr.": {
+      "yds": 25,
+      "td": 91,
+      "ypc": null,
+      "ypg": 35
+     },
+     "Turbo Richard": {
+      "yds": 17,
+      "td": 32,
+      "ypc": 21,
+      "ypg": 24
+     }
+    }
    }
   ]
  },
  "wr": {
   "latest": {
-   "data_through": "2026-10-17",
+   "data_through": "2026-10-20",
    "boards": {
     "rec": {
      "label": "Receptions",
@@ -319,12 +336,12 @@
      ],
      "players": {
       "Charlie Becker": {
-       "rank": 26,
+       "rank": 27,
        "value": 39.0,
        "g": 7
       },
       "Nick Marsh": {
-       "rank": 55,
+       "rank": 57,
        "value": 32.0,
        "g": 7
       }
@@ -351,34 +368,34 @@
       },
       {
        "rank": 3,
+       "name": "Isaiah Myers",
+       "team": "MO State",
+       "g": 7,
+       "value": 796.0
+      },
+      {
+       "rank": 4,
        "name": "Umari Hatcher",
        "team": "Syracuse",
        "g": 6,
        "value": 784.0
       },
       {
-       "rank": 4,
+       "rank": 5,
        "name": "Malachi Toney",
        "team": "Miami",
        "g": 6,
        "value": 758.0
-      },
-      {
-       "rank": 5,
-       "name": "KJ Duff",
-       "team": "Rutgers",
-       "g": 6,
-       "value": 741.0
       }
      ],
      "players": {
       "Charlie Becker": {
-       "rank": 7,
+       "rank": 8,
        "value": 694.0,
        "g": 7
       },
       "Nick Marsh": {
-       "rank": 17,
+       "rank": 18,
        "value": 585.0,
        "g": 7
       }
@@ -549,12 +566,12 @@
      ],
      "players": {
       "Charlie Becker": {
-       "rank": 11,
+       "rank": 12,
        "value": 99.1,
        "g": 7
       },
       "Nick Marsh": {
-       "rank": 25,
+       "rank": 24,
        "value": 83.6,
        "g": 7
       }
@@ -565,7 +582,7 @@
     "Charlie Becker",
     "Nick Marsh"
    ],
-   "retrieved_at": "2026-10-18T22:38+00:00"
+   "retrieved_at": "2026-10-21T18:59+00:00"
   },
   "rank_history": [
    {
@@ -603,6 +620,25 @@
       "td": 8,
       "ypr": 26,
       "ypg": 25
+     }
+    }
+   },
+   {
+    "through": "2026-10-20",
+    "ranks": {
+     "Charlie Becker": {
+      "rec": 27,
+      "yds": 8,
+      "td": 5,
+      "ypr": 38,
+      "ypg": 12
+     },
+     "Nick Marsh": {
+      "rec": 57,
+      "yds": 18,
+      "td": 8,
+      "ypr": 26,
+      "ypg": 24
      }
     }
    }

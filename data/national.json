@@ -3,7 +3,7 @@
  "source": "cfbstats.com national player leaders, passing, all games (FBS)",
  "qualifier_note": "Completion %, passer rating and yards per attempt require 15 pass attempts per game played and 75% of team games (cfbstats/NCAA rule). Yards and TD have no qualifier.",
  "latest": {
-  "data_through": "2026-10-17",
+  "data_through": "2026-10-20",
   "boards": {
    "yds": {
     "rows": [
@@ -192,10 +192,10 @@
       "g": 6,
       "cmp": 140,
       "att": 192,
-      "yds": 1834,
+      "yds": 1839,
       "td": 16,
       "int": 5,
-      "src_rating": 175.45
+      "src_rating": 175.67
      },
      {
       "name": "Ethan Grunkemeyer",
@@ -352,7 +352,7 @@
    "int": 0,
    "src_rating": 181.56
   },
-  "retrieved_at": "2026-10-18T22:38+00:00"
+  "retrieved_at": "2026-10-21T18:58+00:00"
  },
  "rank_history": [
   {
@@ -398,6 +398,17 @@
   },
   {
    "through": "2026-10-17",
+   "games": 7,
+   "ranks": {
+    "yds": 25,
+    "td": 4,
+    "pct": 63,
+    "rating": 4,
+    "ypa": 8
+   }
+  },
+  {
+   "through": "2026-10-20",
    "games": 7,
    "ranks": {
     "yds": 25,
