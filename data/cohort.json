@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "rule": "The four highest-ranked quarterbacks in consensus Heisman odds, other than Hoover. Game logs from ESPN.",
- "retrieved_at": "2026-10-21T23:42+00:00",
+ "retrieved_at": "2026-10-24T22:16+00:00",
  "qbs": [
   {
    "name": "Jeremiah Smith",
@@ -207,6 +207,21 @@
      "td": 3,
      "int": 1,
      "rush_yds": 6,
+     "rush_td": 0,
+     "rec": 0,
+     "rec_yds": 0,
+     "rec_td": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opp": "Pittsburgh Panthers",
+     "result": "W 52-23",
+     "cmp": 31,
+     "att": 37,
+     "yds": 387,
+     "td": 4,
+     "int": 0,
+     "rush_yds": -12,
      "rush_td": 0,
      "rec": 0,
      "rec_yds": 0,

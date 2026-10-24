@@ -1,7 +1,7 @@
 {
  "rb": {
   "latest": {
-   "data_through": "2026-10-20",
+   "data_through": "2026-10-23",
    "boards": {
     "yds": {
      "label": "Rushing yards",
@@ -10,48 +10,48 @@
      "top": [
       {
        "rank": 1,
+       "name": "Nate Sheppard",
+       "team": "Duke",
+       "g": 7,
+       "value": 875.0
+      },
+      {
+       "rank": 2,
        "name": "Jamal Roberts",
        "team": "Missouri",
        "g": 7,
        "value": 867.0
       },
       {
-       "rank": 2,
+       "rank": 3,
+       "name": "Cale Hellums",
+       "team": "Army",
+       "g": 7,
+       "value": 840.0
+      },
+      {
+       "rank": 4,
        "name": "Torrance Burgess Jr.",
        "team": "Texas St",
        "g": 6,
        "value": 838.0
       },
       {
-       "rank": 3,
+       "rank": 5,
        "name": "DeSean Bishop",
        "team": "Tennessee",
        "g": 7,
        "value": 837.0
-      },
-      {
-       "rank": 4,
-       "name": "Dylan Riley",
-       "team": "Boise St",
-       "g": 6,
-       "value": 835.0
-      },
-      {
-       "rank": 5,
-       "name": "Cam Cook",
-       "team": "WVU",
-       "g": 7,
-       "value": 833.0
       }
      ],
      "players": {
       "Lee Beebe Jr.": {
-       "rank": 25,
+       "rank": 29,
        "value": 575.0,
        "g": 7
       },
       "Turbo Richard": {
-       "rank": 17,
+       "rank": 19,
        "value": 643.0,
        "g": 7
       }
@@ -64,20 +64,20 @@
      "top": [
       {
        "rank": 1,
+       "name": "Cale Hellums",
+       "team": "Army",
+       "g": 7,
+       "value": 16.0
+      },
+      {
+       "rank": 2,
        "name": "Michael Hawkins Jr.",
        "team": "WVU",
        "g": 7,
        "value": 14.0
       },
       {
-       "rank": 2,
-       "name": "Cale Hellums",
-       "team": "Army",
-       "g": 6,
-       "value": 13.0
-      },
-      {
-       "rank": 2,
+       "rank": 3,
        "name": "Jadan Baugh",
        "team": "Florida",
        "g": 7,
@@ -100,12 +100,12 @@
      ],
      "players": {
       "Lee Beebe Jr.": {
-       "rank": 91,
+       "rank": 92,
        "value": 4.0,
        "g": 7
       },
       "Turbo Richard": {
-       "rank": 32,
+       "rank": 35,
        "value": 6.0,
        "g": 7
       }
@@ -125,31 +125,31 @@
       },
       {
        "rank": 2,
-       "name": "Samari Howard",
-       "team": "Army",
-       "g": 6,
-       "value": 10.21
-      },
-      {
-       "rank": 3,
-       "name": "Jaylon Coleman",
-       "team": "Liberty",
-       "g": 6,
-       "value": 9.92
-      },
-      {
-       "rank": 4,
        "name": "Antwan Roberts Jr.",
        "team": "Arizona",
        "g": 5,
        "value": 9.78
       },
       {
-       "rank": 5,
+       "rank": 3,
+       "name": "Samari Howard",
+       "team": "Army",
+       "g": 7,
+       "value": 9.35
+      },
+      {
+       "rank": 4,
        "name": "Mel Brown",
        "team": "Colorado State",
        "g": 6,
        "value": 9.17
+      },
+      {
+       "rank": 5,
+       "name": "Cole Tabb",
+       "team": "Cincinnati",
+       "g": 6,
+       "value": 9.14
       }
      ],
      "players": {
@@ -183,8 +183,8 @@
        "rank": 3,
        "name": "Nate Sheppard",
        "team": "Duke",
-       "g": 6,
-       "value": 136.67
+       "g": 7,
+       "value": 125.0
       },
       {
        "rank": 4,
@@ -197,13 +197,13 @@
        "rank": 5,
        "name": "Cale Hellums",
        "team": "Army",
-       "g": 6,
-       "value": 119.83
+       "g": 7,
+       "value": 120.0
       }
      ],
      "players": {
       "Lee Beebe Jr.": {
-       "rank": 35,
+       "rank": 37,
        "value": 82.14,
        "g": 7
       },
@@ -219,7 +219,7 @@
     "Lee Beebe Jr.",
     "Turbo Richard"
    ],
-   "retrieved_at": "2026-10-21T23:42+00:00"
+   "retrieved_at": "2026-10-24T22:16+00:00"
   },
   "rank_history": [
    {
@@ -257,17 +257,17 @@
     }
    },
    {
-    "through": "2026-10-20",
+    "through": "2026-10-23",
     "ranks": {
      "Lee Beebe Jr.": {
-      "yds": 25,
-      "td": 91,
+      "yds": 29,
+      "td": 92,
       "ypc": null,
-      "ypg": 35
+      "ypg": 37
      },
      "Turbo Richard": {
-      "yds": 17,
-      "td": 32,
+      "yds": 19,
+      "td": 35,
       "ypc": 21,
       "ypg": 24
      }
@@ -277,7 +277,7 @@
  },
  "wr": {
   "latest": {
-   "data_through": "2026-10-20",
+   "data_through": "2026-10-23",
    "boards": {
     "rec": {
      "label": "Receptions",
@@ -336,7 +336,7 @@
      ],
      "players": {
       "Charlie Becker": {
-       "rank": 27,
+       "rank": 28,
        "value": 39.0,
        "g": 7
       },
@@ -485,8 +485,8 @@
        "rank": 2,
        "name": "Makai Jackson",
        "team": "Liberty",
-       "g": 6,
-       "value": 23.41
+       "g": 7,
+       "value": 23.48
       },
       {
        "rank": 3,
@@ -504,20 +504,20 @@
       },
       {
        "rank": 5,
-       "name": "Damarion Witten",
-       "team": "Miami (Oh)",
+       "name": "Tim Burns Jr.",
+       "team": "Sam Houston",
        "g": 7,
-       "value": 21.79
+       "value": 21.93
       }
      ],
      "players": {
       "Charlie Becker": {
-       "rank": 38,
+       "rank": 39,
        "value": 17.79,
        "g": 7
       },
       "Nick Marsh": {
-       "rank": 26,
+       "rank": 28,
        "value": 18.28,
        "g": 7
       }
@@ -571,7 +571,7 @@
        "g": 7
       },
       "Nick Marsh": {
-       "rank": 24,
+       "rank": 23,
        "value": 83.6,
        "g": 7
       }
@@ -582,7 +582,7 @@
     "Charlie Becker",
     "Nick Marsh"
    ],
-   "retrieved_at": "2026-10-21T23:42+00:00"
+   "retrieved_at": "2026-10-24T22:16+00:00"
   },
   "rank_history": [
    {
@@ -624,21 +624,21 @@
     }
    },
    {
-    "through": "2026-10-20",
+    "through": "2026-10-23",
     "ranks": {
      "Charlie Becker": {
-      "rec": 27,
+      "rec": 28,
       "yds": 8,
       "td": 5,
-      "ypr": 38,
+      "ypr": 39,
       "ypg": 12
      },
      "Nick Marsh": {
       "rec": 57,
       "yds": 18,
       "td": 8,
-      "ypr": 26,
-      "ypg": 24
+      "ypr": 28,
+      "ypg": 23
      }
     }
    }
