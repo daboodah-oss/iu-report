@@ -1,36 +1,43 @@
-[schedule] 2026: 12 games, 7 played
+Traceback (most recent call last):
+  File "/home/runner/work/iu-report/iu-report/collect.py", line 85, in run
+    out = fn(*a, **k)
+          ^^^^^^^^^^^
+  File "/home/runner/work/iu-report/iu-report/collect_tabs.py", line 334, in <lambda>
+    C.section("ap_poll")(lambda: ap_poll(C, U))()
+                                 ^^^^^^^^^^^^^
+  File "/home/runner/work/iu-report/iu-report/collect_tabs.py", line 176, in ap_poll
+    if not r: raise ValueError("no AP poll in ESPN rankings")
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no AP poll in ESPN rankings
+[schedule] 2026: 12 games, 8 played
 [schedule] ESPN finals seen: 8, latest 2026-10-24 W 13-6
-[schedule] 2026-10-24 Michigan: final from ESPN (W 13-6)
-quick check: new final 2026-10-24 Michigan W 13-6
-ADDED Hoover game 8: Michigan W 13-6
-[games] added Hoover 2026-10-24 Michigan W 13-6
 [games] next game kickoff: {'kickoff': '2026-10-31T15:30-04:00', 'tv': 'CBS'}
 UPDATED next game: {'date': '2026-10-31', 'opp': 'Minnesota', 'site': 'H', 'source_url': 'https://cfbstats.com/2026/team/306/index.html', 'kickoff': '2026-10-31T15:30-04:00', 'tv': 'CBS'}
-UPDATED national through 2026-10-23 {'yds': 28, 'td': 5, 'pct': 63, 'rating': 4, 'ypa': 7}
-ADDED BetMGM 2026-10-23 Hoover: None
+UPDATED national through 2026-10-24 {'yds': 28, 'td': 9, 'pct': 76, 'rating': 12, 'ypa': 14}
+SKIPPED: snapshot exists for BetMGM 2026-10-23
 UPDATED cohort: Jeremiah Smith, Darian Mensah, Trinidad Chambliss, CJ Carr
 UPDATED opponent pass-D ranks
-STORED AP Top 25 2026-10-18 1 Miami, 2 BYU, 3 Ohio State, 4 Notre Dame, 5 Georgia
+[ap_poll] FAILED: no AP poll in ESPN rankings
 STORED team Indiana 2026: 8 games
-[team] Indiana 2026: 8 games; not cross-checked yet: cfbstats has 7 games through 2026-10-23, ESPN 8
+[team] Indiana 2026: 8 games; matches cfbstats through 2026-10-24
 STORED team Miami 2026: 7 games
-[team] Miami 2026: 7 games; not cross-checked yet: cfbstats has 6 games through 2026-10-23, ESPN 7
-STORED team BYU 2026: 6 games
-[team] BYU 2026: 6 games; matches cfbstats through 2026-10-23
+[team] Miami 2026: 7 games; matches cfbstats through 2026-10-24
+STORED team BYU 2026: 7 games
+[team] BYU 2026: 7 games; matches cfbstats through 2026-10-24
 STORED team Ohio State 2026: 7 games
-[team] Ohio State 2026: 7 games; matches cfbstats through 2026-10-23
+[team] Ohio State 2026: 7 games; matches cfbstats through 2026-10-24
 STORED team Notre Dame 2026: 7 games
-[team] Notre Dame 2026: 7 games; matches cfbstats through 2026-10-23
+[team] Notre Dame 2026: 7 games; matches cfbstats through 2026-10-24
 STORED team Georgia 2026: 7 games
-[team] Georgia 2026: 7 games; matches cfbstats through 2026-10-23
+[team] Georgia 2026: 7 games; matches cfbstats through 2026-10-24
 STORED rb: Lee Beebe Jr. 2026 (8 g), Turbo Richard 2026 (8 g), Roman Hemby 2025 (16 g), Kaelon Black 2025 (16 g), Justice Ellison 2024 (13 g), Ty Son Lawton 2024 (13 g)
 STORED wr: Charlie Becker 2026 (8 g), Nick Marsh 2026 (8 g), Omar Cooper Jr. 2025 (16 g), Elijah Sarratt 2025 (14 g), Elijah Sarratt 2024 (13 g), Omar Cooper Jr. 2024 (13 g)
-STORED rb national boards through 2026-10-23
-STORED wr national boards through 2026-10-23
-[natref] qb: 48 players stored (6 game logs fetched, 42 unchanged)
-STORED natref qb: 48 players through 2026-10-23
-[natref] rb: 53 players stored (9 game logs fetched, 44 unchanged)
-STORED natref rb: 53 players through 2026-10-23
-[natref] wr: 55 players stored (6 game logs fetched, 49 unchanged)
-STORED natref wr: 55 players through 2026-10-23
-FAILED sections: none
+STORED rb national boards through 2026-10-24
+STORED wr national boards through 2026-10-24
+[natref] qb: 44 players stored (28 game logs fetched, 16 unchanged)
+STORED natref qb: 44 players through 2026-10-24
+[natref] rb: 49 players stored (35 game logs fetched, 14 unchanged)
+STORED natref rb: 49 players through 2026-10-24
+[natref] wr: 52 players stored (34 game logs fetched, 18 unchanged)
+STORED natref wr: 52 players through 2026-10-24
+FAILED sections: ap_poll

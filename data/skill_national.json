@@ -1,7 +1,7 @@
 {
  "rb": {
   "latest": {
-   "data_through": "2026-10-23",
+   "data_through": "2026-10-24",
    "boards": {
     "yds": {
      "label": "Rushing yards",
@@ -10,50 +10,50 @@
      "top": [
       {
        "rank": 1,
-       "name": "Nate Sheppard",
-       "team": "Duke",
+       "name": "Dylan Riley",
+       "team": "Boise St",
        "g": 7,
-       "value": 875.0
+       "value": 963.0
       },
       {
        "rank": 2,
-       "name": "Jamal Roberts",
-       "team": "Missouri",
-       "g": 7,
-       "value": 867.0
+       "name": "DeSean Bishop",
+       "team": "Tennessee",
+       "g": 8,
+       "value": 957.0
       },
       {
        "rank": 3,
-       "name": "Cale Hellums",
-       "team": "Army",
-       "g": 7,
-       "value": 840.0
+       "name": "Cam Cook",
+       "team": "WVU",
+       "g": 8,
+       "value": 923.0
       },
       {
        "rank": 4,
        "name": "Torrance Burgess Jr.",
        "team": "Texas St",
-       "g": 6,
-       "value": 838.0
+       "g": 7,
+       "value": 889.0
       },
       {
        "rank": 5,
-       "name": "DeSean Bishop",
-       "team": "Tennessee",
+       "name": "Nate Sheppard",
+       "team": "Duke",
        "g": 7,
-       "value": 837.0
+       "value": 875.0
       }
      ],
      "players": {
       "Lee Beebe Jr.": {
-       "rank": 29,
-       "value": 575.0,
-       "g": 7
+       "rank": 28,
+       "value": 631.0,
+       "g": 8
       },
       "Turbo Richard": {
-       "rank": 19,
-       "value": 643.0,
-       "g": 7
+       "rank": 18,
+       "value": 711.0,
+       "g": 8
       }
      }
     },
@@ -70,11 +70,11 @@
        "value": 16.0
       },
       {
-       "rank": 2,
+       "rank": 1,
        "name": "Michael Hawkins Jr.",
        "team": "WVU",
-       "g": 7,
-       "value": 14.0
+       "g": 8,
+       "value": 16.0
       },
       {
        "rank": 3,
@@ -85,29 +85,24 @@
       },
       {
        "rank": 4,
-       "name": "Wayne Knight",
-       "team": "UCLA",
-       "g": 6,
-       "value": 11.0
+       "name": "Jackson Gutierrez",
+       "team": "Navy",
+       "g": 7,
+       "value": 12.0
       },
       {
        "rank": 4,
-       "name": "Ashton Daniels",
-       "team": "FSU",
+       "name": "Wayne Knight",
+       "team": "UCLA",
        "g": 7,
-       "value": 11.0
+       "value": 12.0
       }
      ],
      "players": {
-      "Lee Beebe Jr.": {
-       "rank": 92,
-       "value": 4.0,
-       "g": 7
-      },
       "Turbo Richard": {
-       "rank": 35,
+       "rank": 45,
        "value": 6.0,
-       "g": 7
+       "g": 8
       }
      }
     },
@@ -120,15 +115,15 @@
        "rank": 1,
        "name": "Joseph Himon II",
        "team": "Northwestern",
-       "g": 6,
-       "value": 11.53
+       "g": 7,
+       "value": 9.76
       },
       {
        "rank": 2,
-       "name": "Antwan Roberts Jr.",
-       "team": "Arizona",
-       "g": 5,
-       "value": 9.78
+       "name": "Cole Tabb",
+       "team": "Cincinnati",
+       "g": 7,
+       "value": 9.55
       },
       {
        "rank": 3,
@@ -139,24 +134,24 @@
       },
       {
        "rank": 4,
-       "name": "Mel Brown",
-       "team": "Colorado State",
+       "name": "Avery Johnson",
+       "team": "Kansas St",
        "g": 6,
-       "value": 9.17
+       "value": 9.06
       },
       {
        "rank": 5,
-       "name": "Cole Tabb",
-       "team": "Cincinnati",
-       "g": 6,
-       "value": 9.14
+       "name": "Jaylon Coleman",
+       "team": "Liberty",
+       "g": 7,
+       "value": 8.97
       }
      ],
      "players": {
       "Turbo Richard": {
-       "rank": 21,
-       "value": 7.39,
-       "g": 7
+       "rank": 34,
+       "value": 6.71,
+       "g": 8
       }
      }
     },
@@ -167,17 +162,17 @@
      "top": [
       {
        "rank": 1,
-       "name": "Torrance Burgess Jr.",
-       "team": "Texas St",
-       "g": 6,
-       "value": 139.67
+       "name": "Dylan Riley",
+       "team": "Boise St",
+       "g": 7,
+       "value": 137.57
       },
       {
        "rank": 2,
-       "name": "Dylan Riley",
-       "team": "Boise St",
-       "g": 6,
-       "value": 139.17
+       "name": "Torrance Burgess Jr.",
+       "team": "Texas St",
+       "g": 7,
+       "value": 127.0
       },
       {
        "rank": 3,
@@ -188,29 +183,29 @@
       },
       {
        "rank": 4,
+       "name": "Jackson Gutierrez",
+       "team": "Navy",
+       "g": 7,
+       "value": 124.57
+      },
+      {
+       "rank": 5,
        "name": "Jamal Roberts",
        "team": "Missouri",
        "g": 7,
        "value": 123.86
-      },
-      {
-       "rank": 5,
-       "name": "Cale Hellums",
-       "team": "Army",
-       "g": 7,
-       "value": 120.0
       }
      ],
      "players": {
       "Lee Beebe Jr.": {
-       "rank": 37,
-       "value": 82.14,
-       "g": 7
+       "rank": 47,
+       "value": 78.88,
+       "g": 8
       },
       "Turbo Richard": {
        "rank": 24,
-       "value": 91.86,
-       "g": 7
+       "value": 88.88,
+       "g": 8
       }
      }
     }
@@ -219,7 +214,7 @@
     "Lee Beebe Jr.",
     "Turbo Richard"
    ],
-   "retrieved_at": "2026-10-24T22:16+00:00"
+   "retrieved_at": "2026-10-25T17:53+00:00"
   },
   "rank_history": [
    {
@@ -257,18 +252,18 @@
     }
    },
    {
-    "through": "2026-10-23",
+    "through": "2026-10-24",
     "ranks": {
      "Lee Beebe Jr.": {
-      "yds": 29,
-      "td": 92,
+      "yds": 28,
+      "td": null,
       "ypc": null,
-      "ypg": 37
+      "ypg": 47
      },
      "Turbo Richard": {
-      "yds": 19,
-      "td": 35,
-      "ypc": 21,
+      "yds": 18,
+      "td": 45,
+      "ypc": 34,
       "ypg": 24
      }
     }
@@ -277,7 +272,7 @@
  },
  "wr": {
   "latest": {
-   "data_through": "2026-10-23",
+   "data_through": "2026-10-24",
    "boards": {
     "rec": {
      "label": "Receptions",
@@ -286,64 +281,64 @@
      "top": [
       {
        "rank": 1,
-       "name": "Jeremiah Smith",
-       "team": "Ohio State",
-       "g": 7,
-       "value": 52.0
-      },
-      {
-       "rank": 1,
-       "name": "Chris Durr Jr.",
-       "team": "Maryland",
-       "g": 7,
-       "value": 52.0
-      },
-      {
-       "rank": 3,
-       "name": "Umari Hatcher",
-       "team": "Syracuse",
-       "g": 6,
-       "value": 50.0
-      },
-      {
-       "rank": 3,
        "name": "Malachi Toney",
        "team": "Miami",
-       "g": 6,
-       "value": 50.0
-      },
-      {
-       "rank": 5,
-       "name": "Carlos Hernandez",
-       "team": "Wake Forest",
        "g": 7,
-       "value": 49.0
+       "value": 66.0
       },
       {
-       "rank": 5,
+       "rank": 2,
+       "name": "Easton Messer",
+       "team": "FAU",
+       "g": 7,
+       "value": 58.0
+      },
+      {
+       "rank": 2,
        "name": "Gavin Freeman",
        "team": "Baylor",
-       "g": 6,
-       "value": 49.0
+       "g": 7,
+       "value": 58.0
+      },
+      {
+       "rank": 4,
+       "name": "DeAree Rogers",
+       "team": "N Illinois",
+       "g": 7,
+       "value": 57.0
       },
       {
        "rank": 5,
-       "name": "DeAree Rogers",
-       "team": "N Illinois",
-       "g": 6,
-       "value": 49.0
+       "name": "Umari Hatcher",
+       "team": "Syracuse",
+       "g": 7,
+       "value": 54.0
+      },
+      {
+       "rank": 5,
+       "name": "Kelby Valsin",
+       "team": "FAU",
+       "g": 7,
+       "value": 54.0
+      },
+      {
+       "rank": 5,
+       "name": "Chase Hendricks",
+       "team": "California",
+       "g": 8,
+       "value": 54.0
       }
      ],
      "players": {
       "Charlie Becker": {
-       "rank": 28,
-       "value": 39.0,
-       "g": 7
+       "rank": 26,
+       "value": 42.0,
+       "g": 8
       },
       "Nick Marsh": {
-       "rank": 57,
-       "value": 32.0,
-       "g": 7
+       "rank": 69,
+       "value": 34.0,
+       "g": 8
       }
      }
     },
@@ -368,36 +363,36 @@
       },
       {
        "rank": 3,
-       "name": "Isaiah Myers",
-       "team": "MO State",
+       "name": "Malachi Toney",
+       "team": "Miami",
        "g": 7,
-       "value": 796.0
+       "value": 952.0
       },
       {
        "rank": 4,
        "name": "Umari Hatcher",
        "team": "Syracuse",
-       "g": 6,
-       "value": 784.0
+       "g": 7,
+       "value": 887.0
       },
       {
        "rank": 5,
-       "name": "Malachi Toney",
-       "team": "Miami",
-       "g": 6,
-       "value": 758.0
+       "name": "Reed Harris",
+       "team": "Arizona State",
+       "g": 7,
+       "value": 800.0
       }
      ],
      "players": {
       "Charlie Becker": {
        "rank": 8,
-       "value": 694.0,
-       "g": 7
+       "value": 726.0,
+       "g": 8
       },
       "Nick Marsh": {
-       "rank": 18,
-       "value": 585.0,
-       "g": 7
+       "rank": 26,
+       "value": 610.0,
+       "g": 8
       }
      }
     },
@@ -422,50 +417,36 @@
       },
       {
        "rank": 3,
-       "name": "KJ Duff",
-       "team": "Rutgers",
-       "g": 6,
-       "value": 9.0
-      },
-      {
-       "rank": 3,
-       "name": "Collin Dixon",
-       "team": "Illinois",
-       "g": 6,
-       "value": 9.0
-      },
-      {
-       "rank": 5,
        "name": "Malachi Toney",
        "team": "Miami",
-       "g": 6,
-       "value": 8.0
-      },
-      {
-       "rank": 5,
-       "name": "Reed Harris",
-       "team": "Arizona State",
-       "g": 6,
-       "value": 8.0
-      },
-      {
-       "rank": 5,
-       "name": "Charlie Becker",
-       "team": "Indiana",
        "g": 7,
-       "value": 8.0
+       "value": 11.0
+      },
+      {
+       "rank": 4,
+       "name": "Collin Dixon",
+       "team": "Illinois",
+       "g": 7,
+       "value": 10.0
+      },
+      {
+       "rank": 5,
+       "name": "KJ Duff",
+       "team": "Rutgers",
+       "g": 7,
+       "value": 9.0
       }
      ],
      "players": {
       "Charlie Becker": {
-       "rank": 5,
+       "rank": 6,
        "value": 8.0,
-       "g": 7
+       "g": 8
       },
       "Nick Marsh": {
-       "rank": 8,
+       "rank": 10,
        "value": 7.0,
-       "g": 7
+       "g": 8
       }
      }
     },
@@ -478,7 +459,7 @@
        "rank": 1,
        "name": "DJ Epps",
        "team": "WVU",
-       "g": 7,
+       "g": 8,
        "value": 25.27
       },
       {
@@ -512,14 +493,14 @@
      ],
      "players": {
       "Charlie Becker": {
-       "rank": 39,
-       "value": 17.79,
-       "g": 7
+       "rank": 46,
+       "value": 17.29,
+       "g": 8
       },
       "Nick Marsh": {
-       "rank": 28,
-       "value": 18.28,
-       "g": 7
+       "rank": 33,
+       "value": 17.94,
+       "g": 8
       }
      }
     },
@@ -544,36 +525,36 @@
       },
       {
        "rank": 3,
-       "name": "Umari Hatcher",
-       "team": "Syracuse",
-       "g": 6,
-       "value": 130.7
+       "name": "Malachi Toney",
+       "team": "Miami",
+       "g": 7,
+       "value": 136.0
       },
       {
        "rank": 4,
-       "name": "Malachi Toney",
-       "team": "Miami",
-       "g": 6,
-       "value": 126.3
+       "name": "Umari Hatcher",
+       "team": "Syracuse",
+       "g": 7,
+       "value": 126.7
       },
       {
        "rank": 5,
-       "name": "KJ Duff",
-       "team": "Rutgers",
-       "g": 6,
-       "value": 123.5
+       "name": "Reed Harris",
+       "team": "Arizona State",
+       "g": 7,
+       "value": 114.3
       }
      ],
      "players": {
       "Charlie Becker": {
-       "rank": 12,
-       "value": 99.1,
-       "g": 7
+       "rank": 18,
+       "value": 90.8,
+       "g": 8
       },
       "Nick Marsh": {
-       "rank": 23,
-       "value": 83.6,
-       "g": 7
+       "rank": 38,
+       "value": 76.3,
+       "g": 8
       }
      }
     }
@@ -582,7 +563,7 @@
     "Charlie Becker",
     "Nick Marsh"
    ],
-   "retrieved_at": "2026-10-24T22:16+00:00"
+   "retrieved_at": "2026-10-25T17:53+00:00"
   },
   "rank_history": [
    {
@@ -624,21 +605,21 @@
     }
    },
    {
-    "through": "2026-10-23",
+    "through": "2026-10-24",
     "ranks": {
      "Charlie Becker": {
-      "rec": 28,
+      "rec": 26,
       "yds": 8,
-      "td": 5,
-      "ypr": 39,
-      "ypg": 12
+      "td": 6,
+      "ypr": 46,
+      "ypg": 18
      },
      "Nick Marsh": {
-      "rec": 57,
-      "yds": 18,
-      "td": 8,
-      "ypr": 28,
-      "ypg": 23
+      "rec": 69,
+      "yds": 26,
+      "td": 10,
+      "ypr": 33,
+      "ypg": 38
      }
     }
    }
