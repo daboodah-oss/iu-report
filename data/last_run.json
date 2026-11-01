@@ -1,5 +1,5 @@
 {
- "at": "2026-11-01T15:52-05:00",
+ "at": "2026-11-01T18:55-05:00",
  "failed": [
   "team"
  ],
@@ -13,7 +13,7 @@
   "[team] Notre Dame 2026: 8 games; matches cfbstats through 2026-10-31",
   "[team] UCLA 2026: 8 games; matches cfbstats through 2026-10-31",
   "[team] FAILED: team seasons not stored: Utah 2026 (refused)",
-  "[natref] qb: 46 players stored (0 game logs fetched, 46 unchanged)",
+  "[natref] qb: 46 players stored (1 game logs fetched, 45 unchanged)",
   "[natref] rb: 48 players stored (0 game logs fetched, 48 unchanged)",
   "[natref] wr: 53 players stored (0 game logs fetched, 53 unchanged)",
   "FAILED sections: team"
