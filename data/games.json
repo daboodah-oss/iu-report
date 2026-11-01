@@ -445,17 +445,17 @@
    }
   },
   "2026": {
-   "through": "2026-10-30",
+   "through": "2026-10-31",
    "ranks": {
-    "North Texas": 103,
-    "Western Kentucky": 87,
-    "Northwestern": 72,
-    "Rutgers": 82,
-    "Nebraska": 18,
-    "Ohio State": 17,
-    "Michigan": 7,
-    "Minnesota": 11,
-    "USC": 78
+    "North Texas": 100,
+    "Western Kentucky": 82,
+    "Northwestern": 94,
+    "Rutgers": 88,
+    "Nebraska": 24,
+    "Ohio State": 20,
+    "Michigan": 5,
+    "Minnesota": 23,
+    "USC": 84
    },
    "source_url": "https://cfbstats.com/2026/leader/national/team/defense/split01/category02/sort01.html"
   },

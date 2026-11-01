@@ -1,21 +1,21 @@
 {
- "at": "2026-10-31T22:20-04:00",
- "failed": [],
+ "at": "2026-11-01T14:15-05:00",
+ "failed": [
+  "ap_poll"
+ ],
  "log": [
-  "[schedule] 2026: 12 games, 8 played",
+  "[schedule] 2026: 12 games, 9 played",
   "[schedule] ESPN finals seen: 9, latest 2026-10-31 W 23-16",
-  "[schedule] 2026-10-31 Minnesota: final from ESPN (W 23-16)",
-  "quick check: new final 2026-10-31 Minnesota W 23-16",
-  "[games] added Hoover 2026-10-31 Minnesota W 23-16",
   "[games] next game kickoff: not announced",
-  "[team] Indiana 2026: 9 games; not cross-checked yet: cfbstats has 8 games through 2026-10-30, ESPN 9",
-  "[team] Miami 2026: 7 games; matches cfbstats through 2026-10-30",
-  "[team] Ohio State 2026: 7 games; matches cfbstats through 2026-10-30",
-  "[team] Georgia 2026: 8 games; not cross-checked yet: cfbstats has 7 games through 2026-10-30, ESPN 8",
-  "[team] Notre Dame 2026: 8 games; not cross-checked yet: cfbstats has 7 games through 2026-10-30, ESPN 8",
-  "[natref] qb: 46 players stored (8 game logs fetched, 38 unchanged)",
-  "[natref] rb: 49 players stored (4 game logs fetched, 45 unchanged)",
-  "[natref] wr: 53 players stored (10 game logs fetched, 43 unchanged)",
-  "FAILED sections: none"
+  "[ap_poll] FAILED: no AP poll in ESPN rankings",
+  "[team] Indiana 2026: 9 games; matches cfbstats through 2026-10-31",
+  "[team] Miami 2026: 8 games; matches cfbstats through 2026-10-31",
+  "[team] Ohio State 2026: 8 games; matches cfbstats through 2026-10-31",
+  "[team] Georgia 2026: 8 games; matches cfbstats through 2026-10-31",
+  "[team] Notre Dame 2026: 8 games; matches cfbstats through 2026-10-31",
+  "[natref] qb: 46 players stored (28 game logs fetched, 18 unchanged)",
+  "[natref] rb: 48 players stored (34 game logs fetched, 14 unchanged)",
+  "[natref] wr: 53 players stored (32 game logs fetched, 21 unchanged)",
+  "FAILED sections: ap_poll"
  ]
 }
