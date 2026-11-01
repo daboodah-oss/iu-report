@@ -3,7 +3,7 @@
  "source": "cfbstats.com national player leaders, passing, all games (FBS)",
  "qualifier_note": "Completion %, passer rating and yards per attempt require 15 pass attempts per game played and 75% of team games (cfbstats/NCAA rule). Yards and TD have no qualifier.",
  "latest": {
-  "data_through": "2026-10-27",
+  "data_through": "2026-10-30",
   "boards": {
    "yds": {
     "rows": [
@@ -17,6 +17,28 @@
       "td": 24,
       "int": 2,
       "src_rating": 176.89
+     },
+     {
+      "name": "Tayven Jackson",
+      "team": "North Texas",
+      "g": 8,
+      "cmp": 193,
+      "att": 267,
+      "yds": 2577,
+      "td": 22,
+      "int": 5,
+      "src_rating": 176.81
+     },
+     {
+      "name": "Caden Veltkamp",
+      "team": "FAU",
+      "g": 8,
+      "cmp": 227,
+      "att": 316,
+      "yds": 2536,
+      "td": 23,
+      "int": 5,
+      "src_rating": 160.11
      },
      {
       "name": "Drew Mestemaker",
@@ -39,31 +61,9 @@
       "td": 19,
       "int": 5,
       "src_rating": 156.59
-     },
-     {
-      "name": "John Alan Richter",
-      "team": "Toledo",
-      "g": 8,
-      "cmp": 173,
-      "att": 259,
-      "yds": 2244,
-      "td": 17,
-      "int": 2,
-      "src_rating": 159.7
-     },
-     {
-      "name": "Micah Alejado",
-      "team": "Hawai'i",
-      "g": 8,
-      "cmp": 202,
-      "att": 337,
-      "yds": 2186,
-      "td": 9,
-      "int": 6,
-      "src_rating": 119.68
      }
     ],
-    "hoover_rank": 28,
+    "hoover_rank": 29,
     "label": "Passing yards",
     "source_url": "https://cfbstats.com/2026/leader/national/player/split01/category02/sort08.html"
    },
@@ -79,6 +79,28 @@
       "td": 24,
       "int": 2,
       "src_rating": 176.89
+     },
+     {
+      "name": "Caden Veltkamp",
+      "team": "FAU",
+      "g": 8,
+      "cmp": 227,
+      "att": 316,
+      "yds": 2536,
+      "td": 23,
+      "int": 5,
+      "src_rating": 160.11
+     },
+     {
+      "name": "Tayven Jackson",
+      "team": "North Texas",
+      "g": 8,
+      "cmp": 193,
+      "att": 267,
+      "yds": 2577,
+      "td": 22,
+      "int": 5,
+      "src_rating": 176.81
      },
      {
       "name": "Darian Mensah",
@@ -101,31 +123,9 @@
       "td": 21,
       "int": 6,
       "src_rating": 173.57
-     },
-     {
-      "name": "Drew Mestemaker",
-      "team": "Oklahoma State",
-      "g": 7,
-      "cmp": 157,
-      "att": 239,
-      "yds": 2326,
-      "td": 20,
-      "int": 6,
-      "src_rating": 170.03
-     },
-     {
-      "name": "Conner Weigman",
-      "team": "Houston",
-      "g": 8,
-      "cmp": 153,
-      "att": 233,
-      "yds": 2053,
-      "td": 20,
-      "int": 2,
-      "src_rating": 166.29
      }
     ],
-    "hoover_rank": 9,
+    "hoover_rank": 11,
     "label": "Passing TD",
     "source_url": "https://cfbstats.com/2026/leader/national/player/split01/category02/sort10.html"
    },
@@ -165,17 +165,6 @@
       "src_rating": 185.88
      },
      {
-      "name": "Caden Veltkamp",
-      "team": "FAU",
-      "g": 7,
-      "cmp": 190,
-      "att": 260,
-      "yds": 2084,
-      "td": 18,
-      "int": 4,
-      "src_rating": 160.18
-     },
-     {
       "name": "Kevin Jennings",
       "team": "SMU",
       "g": 7,
@@ -185,6 +174,17 @@
       "td": 19,
       "int": 5,
       "src_rating": 177.63
+     },
+     {
+      "name": "Tayven Jackson",
+      "team": "North Texas",
+      "g": 8,
+      "cmp": 193,
+      "att": 267,
+      "yds": 2577,
+      "td": 22,
+      "int": 5,
+      "src_rating": 176.81
      }
     ],
     "hoover_rank": 78,
@@ -239,15 +239,15 @@
       "src_rating": 177.63
      },
      {
-      "name": "Tayven Jackson",
-      "team": "North Texas",
+      "name": "Aidan Chiles",
+      "team": "Northwestern",
       "g": 7,
-      "cmp": 160,
-      "att": 221,
-      "yds": 2173,
-      "td": 18,
-      "int": 5,
-      "src_rating": 177.36
+      "cmp": 117,
+      "att": 164,
+      "yds": 1617,
+      "td": 12,
+      "int": 1,
+      "src_rating": 177.09
      }
     ],
     "hoover_rank": 12,
@@ -341,7 +341,7 @@
    "int": 1,
    "src_rating": 170.93
   },
-  "retrieved_at": "2026-10-29T00:27+00:00"
+  "retrieved_at": "2026-11-01T02:19+00:00"
  },
  "rank_history": [
   {
@@ -408,11 +408,11 @@
    }
   },
   {
-   "through": "2026-10-27",
+   "through": "2026-10-30",
    "games": 8,
    "ranks": {
-    "yds": 28,
-    "td": 9,
+    "yds": 29,
+    "td": 11,
     "pct": 78,
     "rating": 12,
     "ypa": 14

@@ -1,30 +1,34 @@
 [schedule] 2026: 12 games, 8 played
-[schedule] ESPN finals seen: 8, latest 2026-10-24 W 13-6
-[games] next game kickoff: {'kickoff': '2026-10-31T15:30-04:00', 'tv': 'CBS'}
-UPDATED next game: {'date': '2026-10-31', 'opp': 'Minnesota', 'site': 'H', 'source_url': 'https://cfbstats.com/2026/team/306/index.html', 'kickoff': '2026-10-31T15:30-04:00', 'tv': 'CBS'}
-UPDATED national through 2026-10-27 {'yds': 28, 'td': 9, 'pct': 78, 'rating': 12, 'ypa': 14}
-SKIPPED: snapshot exists for BetMGM 2026-10-27
-UPDATED cohort: Jeremiah Smith, Darian Mensah, Malachi Toney, Trinidad Chambliss
+[schedule] ESPN finals seen: 9, latest 2026-10-31 W 23-16
+[schedule] 2026-10-31 Minnesota: final from ESPN (W 23-16)
+quick check: new final 2026-10-31 Minnesota W 23-16
+ADDED Hoover game 9: Minnesota W 23-16
+[games] added Hoover 2026-10-31 Minnesota W 23-16
+[games] next game kickoff: not announced
+UPDATED next game: {'date': '2026-11-14', 'opp': 'USC', 'site': 'H', 'source_url': 'https://cfbstats.com/2026/team/306/index.html'}
+UPDATED national through 2026-10-30 {'yds': 29, 'td': 11, 'pct': 78, 'rating': 12, 'ypa': 14}
+ADDED BetMGM 2026-10-30 Hoover: None
+UPDATED cohort: Jeremiah Smith, Darian Mensah, Malachi Toney, CJ Carr
 UPDATED opponent pass-D ranks
 STORED AP Top 25 2026-10-25 1 Miami, 2 Ohio State, 3 Georgia, 4 Indiana, 5 Notre Dame
-STORED team Indiana 2026: 8 games
-[team] Indiana 2026: 8 games; matches cfbstats through 2026-10-27
+STORED team Indiana 2026: 9 games
+[team] Indiana 2026: 9 games; not cross-checked yet: cfbstats has 8 games through 2026-10-30, ESPN 9
 STORED team Miami 2026: 7 games
-[team] Miami 2026: 7 games; matches cfbstats through 2026-10-27
+[team] Miami 2026: 7 games; matches cfbstats through 2026-10-30
 STORED team Ohio State 2026: 7 games
-[team] Ohio State 2026: 7 games; matches cfbstats through 2026-10-27
-STORED team Georgia 2026: 7 games
-[team] Georgia 2026: 7 games; matches cfbstats through 2026-10-27
-STORED team Notre Dame 2026: 7 games
-[team] Notre Dame 2026: 7 games; matches cfbstats through 2026-10-27
-STORED rb: Lee Beebe Jr. 2026 (8 g), Turbo Richard 2026 (8 g), Roman Hemby 2025 (16 g), Kaelon Black 2025 (16 g), Justice Ellison 2024 (13 g), Ty Son Lawton 2024 (13 g)
-STORED wr: Charlie Becker 2026 (8 g), Nick Marsh 2026 (8 g), Omar Cooper Jr. 2025 (16 g), Elijah Sarratt 2025 (14 g), Elijah Sarratt 2024 (13 g), Omar Cooper Jr. 2024 (13 g)
-STORED rb national boards through 2026-10-27
-STORED wr national boards through 2026-10-27
-[natref] qb: 44 players stored (0 game logs fetched, 44 unchanged)
-STORED natref qb: 44 players through 2026-10-27
-[natref] rb: 49 players stored (0 game logs fetched, 49 unchanged)
-STORED natref rb: 49 players through 2026-10-27
-[natref] wr: 52 players stored (0 game logs fetched, 52 unchanged)
-STORED natref wr: 52 players through 2026-10-27
+[team] Ohio State 2026: 7 games; matches cfbstats through 2026-10-30
+STORED team Georgia 2026: 8 games
+[team] Georgia 2026: 8 games; not cross-checked yet: cfbstats has 7 games through 2026-10-30, ESPN 8
+STORED team Notre Dame 2026: 8 games
+[team] Notre Dame 2026: 8 games; not cross-checked yet: cfbstats has 7 games through 2026-10-30, ESPN 8
+STORED rb: Lee Beebe Jr. 2026 (9 g), Turbo Richard 2026 (9 g), Roman Hemby 2025 (16 g), Kaelon Black 2025 (16 g), Justice Ellison 2024 (13 g), Ty Son Lawton 2024 (13 g)
+STORED wr: Charlie Becker 2026 (9 g), Nick Marsh 2026 (9 g), Omar Cooper Jr. 2025 (16 g), Elijah Sarratt 2025 (14 g), Elijah Sarratt 2024 (13 g), Omar Cooper Jr. 2024 (13 g)
+STORED rb national boards through 2026-10-30
+STORED wr national boards through 2026-10-30
+[natref] qb: 46 players stored (8 game logs fetched, 38 unchanged)
+STORED natref qb: 46 players through 2026-10-30
+[natref] rb: 49 players stored (4 game logs fetched, 45 unchanged)
+STORED natref rb: 49 players through 2026-10-30
+[natref] wr: 53 players stored (10 game logs fetched, 43 unchanged)
+STORED natref wr: 53 players through 2026-10-30
 FAILED sections: none
