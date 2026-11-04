@@ -1,7 +1,7 @@
 {
  "rb": {
   "latest": {
-   "data_through": "2026-10-31",
+   "data_through": "2026-11-03",
    "boards": {
     "yds": {
      "label": "Rushing yards",
@@ -10,17 +10,17 @@
      "top": [
       {
        "rank": 1,
-       "name": "Jahiem White",
-       "team": "North Texas",
-       "g": 8,
-       "value": 1054.0
-      },
-      {
-       "rank": 2,
        "name": "Dylan Riley",
        "team": "Boise St",
        "g": 8,
        "value": 1049.0
+      },
+      {
+       "rank": 2,
+       "name": "Jahiem White",
+       "team": "North Texas",
+       "g": 8,
+       "value": 1047.0
       },
       {
        "rank": 3,
@@ -46,7 +46,7 @@
      ],
      "players": {
       "Lee Beebe Jr.": {
-       "rank": 25,
+       "rank": 26,
        "value": 715.0,
        "g": 9
       },
@@ -107,7 +107,7 @@
      ],
      "players": {
       "Turbo Richard": {
-       "rank": 54,
+       "rank": 55,
        "value": 6.0,
        "g": 9
       }
@@ -169,17 +169,17 @@
      "top": [
       {
        "rank": 1,
-       "name": "Jahiem White",
-       "team": "North Texas",
-       "g": 8,
-       "value": 131.75
-      },
-      {
-       "rank": 2,
        "name": "Dylan Riley",
        "team": "Boise St",
        "g": 8,
        "value": 131.13
+      },
+      {
+       "rank": 2,
+       "name": "Jahiem White",
+       "team": "North Texas",
+       "g": 8,
+       "value": 130.88
       },
       {
        "rank": 3,
@@ -205,7 +205,7 @@
      ],
      "players": {
       "Lee Beebe Jr.": {
-       "rank": 43,
+       "rank": 44,
        "value": 79.44,
        "g": 9
       },
@@ -221,7 +221,7 @@
     "Lee Beebe Jr.",
     "Turbo Richard"
    ],
-   "retrieved_at": "2026-11-01T23:55+00:00"
+   "retrieved_at": "2026-11-04T20:58+00:00"
   },
   "rank_history": [
    {
@@ -291,12 +291,29 @@
       "ypg": 34
      }
     }
+   },
+   {
+    "through": "2026-11-03",
+    "ranks": {
+     "Lee Beebe Jr.": {
+      "yds": 26,
+      "td": null,
+      "ypc": null,
+      "ypg": 44
+     },
+     "Turbo Richard": {
+      "yds": 21,
+      "td": 55,
+      "ypc": 34,
+      "ypg": 34
+     }
+    }
    }
   ]
  },
  "wr": {
   "latest": {
-   "data_through": "2026-10-31",
+   "data_through": "2026-11-03",
    "boards": {
     "rec": {
      "label": "Receptions",
@@ -341,12 +358,12 @@
      ],
      "players": {
       "Charlie Becker": {
-       "rank": 19,
+       "rank": 20,
        "value": 50.0,
        "g": 9
       },
       "Nick Marsh": {
-       "rank": 70,
+       "rank": 71,
        "value": 38.0,
        "g": 9
       }
@@ -400,7 +417,7 @@
        "g": 9
       },
       "Nick Marsh": {
-       "rank": 25,
+       "rank": 26,
        "value": 669.0,
        "g": 9
       }
@@ -524,12 +541,12 @@
      ],
      "players": {
       "Charlie Becker": {
-       "rank": 39,
+       "rank": 38,
        "value": 17.5,
        "g": 9
       },
       "Nick Marsh": {
-       "rank": 37,
+       "rank": 35,
        "value": 17.61,
        "g": 9
       }
@@ -583,7 +600,7 @@
        "g": 9
       },
       "Nick Marsh": {
-       "rank": 41,
+       "rank": 42,
        "value": 74.3,
        "g": 9
       }
@@ -594,7 +611,7 @@
     "Charlie Becker",
     "Nick Marsh"
    ],
-   "retrieved_at": "2026-11-01T23:55+00:00"
+   "retrieved_at": "2026-11-04T20:58+00:00"
   },
   "rank_history": [
    {
@@ -670,6 +687,25 @@
       "td": 9,
       "ypr": 37,
       "ypg": 41
+     }
+    }
+   },
+   {
+    "through": "2026-11-03",
+    "ranks": {
+     "Charlie Becker": {
+      "rec": 20,
+      "yds": 6,
+      "td": 5,
+      "ypr": 38,
+      "ypg": 12
+     },
+     "Nick Marsh": {
+      "rec": 71,
+      "yds": 26,
+      "td": 9,
+      "ypr": 35,
+      "ypg": 42
      }
     }
    }
