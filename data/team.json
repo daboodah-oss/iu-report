@@ -4027,8 +4027,8 @@
       }
      ],
      "complete": false,
-     "retrieved_at": "2026-11-05T01:05+00:00",
-     "check": "cfbstats season totals matched through 2026-11-03",
+     "retrieved_at": "2026-11-08T19:11+00:00",
+     "check": "cfbstats season totals matched through 2026-11-07",
      "cfbstats_url": "https://cfbstats.com/2026/team/306/index.html"
     }
    }
@@ -4173,11 +4173,28 @@
        "to_gained": 4,
        "third_conv": 6,
        "third_att": 15
+      },
+      {
+       "event": "401856741",
+       "date": "2026-11-07",
+       "opp": "Ole Miss",
+       "opp_id": "145",
+       "site": "A",
+       "pf": 42,
+       "pa": 7,
+       "result": "W 42-7",
+       "total_yds": 481,
+       "rush_yds": 295,
+       "pass_yds": 186,
+       "to_lost": 0,
+       "to_gained": 2,
+       "third_conv": 7,
+       "third_att": 12
       }
      ],
      "complete": false,
-     "retrieved_at": "2026-11-05T01:05+00:00",
-     "check": "cfbstats season totals matched through 2026-11-03",
+     "retrieved_at": "2026-11-08T19:11+00:00",
+     "check": "cfbstats season totals matched through 2026-11-07",
      "cfbstats_url": "https://cfbstats.com/2026/team/257/index.html"
     }
    }
@@ -4322,11 +4339,28 @@
        "to_gained": 0,
        "third_conv": 3,
        "third_att": 8
+      },
+      {
+       "event": "401858291",
+       "date": "2026-11-07",
+       "opp": "Miami",
+       "opp_id": "2390",
+       "site": "H",
+       "pf": 31,
+       "pa": 24,
+       "result": "W 31-24",
+       "total_yds": 412,
+       "rush_yds": 93,
+       "pass_yds": 319,
+       "to_lost": 0,
+       "to_gained": 2,
+       "third_conv": 5,
+       "third_att": 14
       }
      ],
      "complete": false,
-     "retrieved_at": "2026-11-05T01:05+00:00",
-     "check": "cfbstats season totals matched through 2026-11-03",
+     "retrieved_at": "2026-11-08T19:11+00:00",
+     "check": "cfbstats season totals matched through 2026-11-07",
      "cfbstats_url": "https://cfbstats.com/2026/team/513/index.html"
     }
    }
@@ -4471,11 +4505,28 @@
        "to_gained": 1,
        "third_conv": 6,
        "third_att": 11
+      },
+      {
+       "event": "401858291",
+       "date": "2026-11-07",
+       "opp": "Notre Dame",
+       "opp_id": "87",
+       "site": "A",
+       "pf": 24,
+       "pa": 31,
+       "result": "L 24-31",
+       "total_yds": 377,
+       "rush_yds": 101,
+       "pass_yds": 276,
+       "to_lost": 2,
+       "to_gained": 0,
+       "third_conv": 6,
+       "third_att": 14
       }
      ],
      "complete": false,
-     "retrieved_at": "2026-11-05T01:05+00:00",
-     "check": "cfbstats season totals matched through 2026-11-03",
+     "retrieved_at": "2026-11-08T19:11+00:00",
+     "check": "cfbstats season totals matched through 2026-11-07",
      "cfbstats_url": "https://cfbstats.com/2026/team/415/index.html"
     }
    }
@@ -4620,11 +4671,28 @@
        "to_gained": 4,
        "third_conv": 5,
        "third_att": 13
+      },
+      {
+       "event": "401858512",
+       "date": "2026-11-07",
+       "opp": "Minnesota",
+       "opp_id": "135",
+       "site": "A",
+       "pf": 34,
+       "pa": 20,
+       "result": "W 34-20",
+       "total_yds": 466,
+       "rush_yds": 163,
+       "pass_yds": 303,
+       "to_lost": 2,
+       "to_gained": 1,
+       "third_conv": 6,
+       "third_att": 13
       }
      ],
      "complete": false,
-     "retrieved_at": "2026-11-05T01:05+00:00",
-     "check": "cfbstats season totals matched through 2026-11-03",
+     "retrieved_at": "2026-11-08T19:11+00:00",
+     "check": "cfbstats season totals matched through 2026-11-07",
      "cfbstats_url": "https://cfbstats.com/2026/team/110/index.html"
     }
    }
