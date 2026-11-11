@@ -1,7 +1,7 @@
 {
  "rb": {
   "latest": {
-   "data_through": "2026-11-07",
+   "data_through": "2026-11-10",
    "boards": {
     "yds": {
      "label": "Rushing yards",
@@ -46,12 +46,12 @@
      ],
      "players": {
       "Lee Beebe Jr.": {
-       "rank": 33,
+       "rank": 34,
        "value": 715.0,
        "g": 9
       },
       "Turbo Richard": {
-       "rank": 29,
+       "rank": 31,
        "value": 745.0,
        "g": 9
       }
@@ -203,7 +203,7 @@
        "g": 9
       },
       "Turbo Richard": {
-       "rank": 32,
+       "rank": 33,
        "value": 82.78,
        "g": 9
       }
@@ -214,7 +214,7 @@
     "Lee Beebe Jr.",
     "Turbo Richard"
    ],
-   "retrieved_at": "2026-11-08T19:11+00:00"
+   "retrieved_at": "2026-11-11T21:35+00:00"
   },
   "rank_history": [
    {
@@ -301,12 +301,29 @@
       "ypg": 32
      }
     }
+   },
+   {
+    "through": "2026-11-10",
+    "ranks": {
+     "Lee Beebe Jr.": {
+      "yds": 34,
+      "td": null,
+      "ypc": null,
+      "ypg": 36
+     },
+     "Turbo Richard": {
+      "yds": 31,
+      "td": 67,
+      "ypc": 26,
+      "ypg": 33
+     }
+    }
    }
   ]
  },
  "wr": {
   "latest": {
-   "data_through": "2026-11-07",
+   "data_through": "2026-11-10",
    "boards": {
     "rec": {
      "label": "Receptions",
@@ -351,12 +368,12 @@
      ],
      "players": {
       "Charlie Becker": {
-       "rank": 29,
+       "rank": 30,
        "value": 50.0,
        "g": 9
       },
       "Nick Marsh": {
-       "rank": 97,
+       "rank": 98,
        "value": 38.0,
        "g": 9
       }
@@ -505,10 +522,10 @@
       },
       {
        "rank": 5,
-       "name": "Dom Dorwart",
-       "team": "Ohio",
-       "g": 9,
-       "value": 21.09
+       "name": "Colton Hinton",
+       "team": "Coastal Carolina",
+       "g": 8,
+       "value": 20.61
       }
      ],
      "players": {
@@ -518,7 +535,7 @@
        "g": 9
       },
       "Nick Marsh": {
-       "rank": 34,
+       "rank": 35,
        "value": 17.61,
        "g": 9
       }
@@ -583,7 +600,7 @@
     "Charlie Becker",
     "Nick Marsh"
    ],
-   "retrieved_at": "2026-11-08T19:11+00:00"
+   "retrieved_at": "2026-11-11T21:35+00:00"
   },
   "rank_history": [
    {
@@ -677,6 +694,25 @@
       "yds": 41,
       "td": 11,
       "ypr": 34,
+      "ypg": 41
+     }
+    }
+   },
+   {
+    "through": "2026-11-10",
+    "ranks": {
+     "Charlie Becker": {
+      "rec": 30,
+      "yds": 11,
+      "td": 7,
+      "ypr": 38,
+      "ypg": 11
+     },
+     "Nick Marsh": {
+      "rec": 98,
+      "yds": 41,
+      "td": 11,
+      "ypr": 35,
       "ypg": 41
      }
     }
