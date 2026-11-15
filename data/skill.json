@@ -108,10 +108,19 @@
       "td": 0
      }
     ],
-    "cfbstats_row": null,
-    "cfbstats_through": "2026-11-13",
+    "cfbstats_row": {
+     "name": "Lee Beebe Jr.",
+     "pos": "RB",
+     "g": 10,
+     "att": 150,
+     "yds": 786,
+     "td": 4,
+     "cfb_id": "1179517"
+    },
+    "cfbstats_through": "2026-11-14",
     "cfbstats_url": "https://cfbstats.com/2026/team/306/rushing/index.html",
-    "chosen": "named in roster.json"
+    "chosen": "named in roster.json",
+    "check_diff": []
    },
    {
     "name": "Turbo Richard",
@@ -219,7 +228,7 @@
      "td": 6,
      "cfb_id": "50216801"
     },
-    "cfbstats_through": "2026-11-13",
+    "cfbstats_through": "2026-11-14",
     "cfbstats_url": "https://cfbstats.com/2026/team/306/rushing/index.html",
     "chosen": "named in roster.json",
     "check_diff": []
@@ -889,7 +898,7 @@
     "check_diff": []
    }
   ],
-  "retrieved_at": "2026-11-15T05:54+00:00",
+  "retrieved_at": "2026-11-15T19:58+00:00",
   "rule": "Current season: players named in roster.json. Earlier seasons: Indiana's top 2 RB by rushing yards (cfbstats.com)."
  },
  "wr": {
@@ -1001,10 +1010,19 @@
       "td": 1
      }
     ],
-    "cfbstats_row": null,
-    "cfbstats_through": "2026-11-13",
+    "cfbstats_row": {
+     "name": "Charlie Becker",
+     "pos": "WR",
+     "g": 10,
+     "rec": 53,
+     "yds": 950,
+     "td": 10,
+     "cfb_id": "50304327"
+    },
+    "cfbstats_through": "2026-11-14",
     "cfbstats_url": "https://cfbstats.com/2026/team/306/receiving/index.html",
-    "chosen": "named in roster.json"
+    "chosen": "named in roster.json",
+    "check_diff": []
    },
    {
     "name": "Nick Marsh",
@@ -1113,10 +1131,19 @@
       "td": 0
      }
     ],
-    "cfbstats_row": null,
-    "cfbstats_through": "2026-11-13",
+    "cfbstats_row": {
+     "name": "Nick Marsh",
+     "pos": "WR",
+     "g": 10,
+     "rec": 42,
+     "yds": 749,
+     "td": 8,
+     "cfb_id": "50312177"
+    },
+    "cfbstats_through": "2026-11-14",
     "cfbstats_url": "https://cfbstats.com/2026/team/306/receiving/index.html",
-    "chosen": "named in roster.json"
+    "chosen": "named in roster.json",
+    "check_diff": []
    },
    {
     "name": "Omar Cooper Jr.",
@@ -1766,7 +1793,7 @@
     "check_diff": []
    }
   ],
-  "retrieved_at": "2026-11-15T05:54+00:00",
+  "retrieved_at": "2026-11-15T19:58+00:00",
   "rule": "Current season: players named in roster.json. Earlier seasons: Indiana's top 2 WR/TE by receiving yards (cfbstats.com)."
  }
 }

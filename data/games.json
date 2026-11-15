@@ -420,7 +420,9 @@
   "date": "2026-11-21",
   "opp": "Washington",
   "site": "A",
-  "source_url": "https://cfbstats.com/2026/team/306/index.html"
+  "source_url": "https://cfbstats.com/2026/team/306/index.html",
+  "kickoff": "2026-11-21T15:30-05:00",
+  "tv": "Peacock"
  },
  "opp_pass_defense": {
   "method": "Opponent's national rank in passing yards allowed per game (cfbstats.com, FBS). 2025 opponents use final 2025 ranks. 2026 opponents use the current 2026 rank, which moves every week.",
@@ -445,17 +447,17 @@
    }
   },
   "2026": {
-   "through": "2026-11-13",
+   "through": "2026-11-14",
    "ranks": {
-    "North Texas": 93,
-    "Western Kentucky": 96,
-    "Northwestern": 70,
-    "Rutgers": 87,
-    "Nebraska": 37,
-    "Ohio State": 34,
-    "Michigan": 4,
-    "Minnesota": 39,
-    "Washington": 66
+    "North Texas": 72,
+    "Western Kentucky": 87,
+    "Northwestern": 74,
+    "Rutgers": 86,
+    "Nebraska": 18,
+    "Ohio State": 40,
+    "Michigan": 13,
+    "Minnesota": 27,
+    "Washington": 77
    },
    "source_url": "https://cfbstats.com/2026/leader/national/team/defense/split01/category02/sort01.html"
   },
