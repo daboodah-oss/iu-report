@@ -96,21 +96,22 @@
       "att": 15,
       "yds": 84,
       "td": 0
+     },
+     {
+      "date": "2026-11-14",
+      "event": "401858518",
+      "opp": "USC",
+      "site": "H",
+      "result": "W 27-13",
+      "att": 16,
+      "yds": 71,
+      "td": 0
      }
     ],
-    "cfbstats_row": {
-     "name": "Lee Beebe Jr.",
-     "pos": "RB",
-     "g": 9,
-     "att": 134,
-     "yds": 715,
-     "td": 4,
-     "cfb_id": "1179517"
-    },
-    "cfbstats_through": "2026-11-10",
+    "cfbstats_row": null,
+    "cfbstats_through": "2026-11-13",
     "cfbstats_url": "https://cfbstats.com/2026/team/306/rushing/index.html",
-    "chosen": "named in roster.json",
-    "check_diff": []
+    "chosen": "named in roster.json"
    },
    {
     "name": "Turbo Richard",
@@ -218,7 +219,7 @@
      "td": 6,
      "cfb_id": "50216801"
     },
-    "cfbstats_through": "2026-11-10",
+    "cfbstats_through": "2026-11-13",
     "cfbstats_url": "https://cfbstats.com/2026/team/306/rushing/index.html",
     "chosen": "named in roster.json",
     "check_diff": []
@@ -888,7 +889,7 @@
     "check_diff": []
    }
   ],
-  "retrieved_at": "2026-11-12T02:01+00:00",
+  "retrieved_at": "2026-11-15T05:54+00:00",
   "rule": "Current season: players named in roster.json. Earlier seasons: Indiana's top 2 RB by rushing yards (cfbstats.com)."
  },
  "wr": {
@@ -988,21 +989,22 @@
       "rec": 8,
       "yds": 149,
       "td": 1
+     },
+     {
+      "date": "2026-11-14",
+      "event": "401858518",
+      "opp": "USC",
+      "site": "H",
+      "result": "W 27-13",
+      "rec": 3,
+      "yds": 75,
+      "td": 1
      }
     ],
-    "cfbstats_row": {
-     "name": "Charlie Becker",
-     "pos": "WR",
-     "g": 9,
-     "rec": 50,
-     "yds": 875,
-     "td": 9,
-     "cfb_id": "50304327"
-    },
-    "cfbstats_through": "2026-11-10",
+    "cfbstats_row": null,
+    "cfbstats_through": "2026-11-13",
     "cfbstats_url": "https://cfbstats.com/2026/team/306/receiving/index.html",
-    "chosen": "named in roster.json",
-    "check_diff": []
+    "chosen": "named in roster.json"
    },
    {
     "name": "Nick Marsh",
@@ -1099,21 +1101,22 @@
       "rec": 4,
       "yds": 59,
       "td": 1
+     },
+     {
+      "date": "2026-11-14",
+      "event": "401858518",
+      "opp": "USC",
+      "site": "H",
+      "result": "W 27-13",
+      "rec": 4,
+      "yds": 80,
+      "td": 0
      }
     ],
-    "cfbstats_row": {
-     "name": "Nick Marsh",
-     "pos": "WR",
-     "g": 9,
-     "rec": 38,
-     "yds": 669,
-     "td": 8,
-     "cfb_id": "50312177"
-    },
-    "cfbstats_through": "2026-11-10",
+    "cfbstats_row": null,
+    "cfbstats_through": "2026-11-13",
     "cfbstats_url": "https://cfbstats.com/2026/team/306/receiving/index.html",
-    "chosen": "named in roster.json",
-    "check_diff": []
+    "chosen": "named in roster.json"
    },
    {
     "name": "Omar Cooper Jr.",
@@ -1763,7 +1766,7 @@
     "check_diff": []
    }
   ],
-  "retrieved_at": "2026-11-12T02:01+00:00",
+  "retrieved_at": "2026-11-15T05:54+00:00",
   "rule": "Current season: players named in roster.json. Earlier seasons: Indiana's top 2 WR/TE by receiving yards (cfbstats.com)."
  }
 }

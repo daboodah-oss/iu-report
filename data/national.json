@@ -3,7 +3,7 @@
  "source": "cfbstats.com national player leaders, passing, all games (FBS)",
  "qualifier_note": "Completion %, passer rating and yards per attempt require 15 pass attempts per game played and 75% of team games (cfbstats/NCAA rule). Yards and TD have no qualifier.",
  "latest": {
-  "data_through": "2026-11-10",
+  "data_through": "2026-11-13",
   "boards": {
    "yds": {
     "rows": [
@@ -41,6 +41,17 @@
       "src_rating": 174.1
      },
      {
+      "name": "Marcus Stokes",
+      "team": "Memphis",
+      "g": 10,
+      "cmp": 194,
+      "att": 290,
+      "yds": 2845,
+      "td": 28,
+      "int": 6,
+      "src_rating": 177.02
+     },
+     {
       "name": "Noah Fifita",
       "team": "Arizona",
       "g": 9,
@@ -50,17 +61,6 @@
       "td": 21,
       "int": 5,
       "src_rating": 168.72
-     },
-     {
-      "name": "Kevin Jennings",
-      "team": "SMU",
-      "g": 9,
-      "cmp": 209,
-      "att": 283,
-      "yds": 2764,
-      "td": 25,
-      "int": 6,
-      "src_rating": 180.8
      }
     ],
     "hoover_rank": 56,
@@ -90,6 +90,17 @@
       "td": 28,
       "int": 2,
       "src_rating": 190.83
+     },
+     {
+      "name": "Marcus Stokes",
+      "team": "Memphis",
+      "g": 10,
+      "cmp": 194,
+      "att": 290,
+      "yds": 2845,
+      "td": 28,
+      "int": 6,
+      "src_rating": 177.02
      },
      {
       "name": "Caden Veltkamp",
@@ -125,15 +136,15 @@
       "src_rating": 180.8
      },
      {
-      "name": "Marcus Stokes",
-      "team": "Memphis",
-      "g": 9,
-      "cmp": 179,
-      "att": 259,
-      "yds": 2532,
+      "name": "Conner Weigman",
+      "team": "Houston",
+      "g": 10,
+      "cmp": 196,
+      "att": 299,
+      "yds": 2552,
       "td": 25,
-      "int": 6,
-      "src_rating": 178.45
+      "int": 3,
+      "src_rating": 162.82
      }
     ],
     "hoover_rank": 14,
@@ -252,16 +263,16 @@
      {
       "name": "Marcus Stokes",
       "team": "Memphis",
-      "g": 9,
-      "cmp": 179,
-      "att": 259,
-      "yds": 2532,
-      "td": 25,
+      "g": 10,
+      "cmp": 194,
+      "att": 290,
+      "yds": 2845,
+      "td": 28,
       "int": 6,
-      "src_rating": 178.45
+      "src_rating": 177.02
      }
     ],
-    "hoover_rank": 16,
+    "hoover_rank": 15,
     "label": "Passer rating",
     "source_url": "https://cfbstats.com/2026/leader/national/player/split01/category02/sort02.html",
     "qualified": true
@@ -315,13 +326,13 @@
      {
       "name": "Marcus Stokes",
       "team": "Memphis",
-      "g": 9,
-      "cmp": 179,
-      "att": 259,
-      "yds": 2532,
-      "td": 25,
+      "g": 10,
+      "cmp": 194,
+      "att": 290,
+      "yds": 2845,
+      "td": 28,
       "int": 6,
-      "src_rating": 178.45
+      "src_rating": 177.02
      },
      {
       "name": "Lincoln Kienholz",
@@ -352,7 +363,7 @@
    "int": 2,
    "src_rating": 164.53
   },
-  "retrieved_at": "2026-11-12T02:01+00:00"
+  "retrieved_at": "2026-11-15T05:54+00:00"
  },
  "rank_history": [
   {
@@ -441,13 +452,13 @@
    }
   },
   {
-   "through": "2026-11-10",
+   "through": "2026-11-13",
    "games": 9,
    "ranks": {
     "yds": 56,
     "td": 14,
     "pct": 91,
-    "rating": 16,
+    "rating": 15,
     "ypa": 15
    }
   }
