@@ -54,10 +54,10 @@ STORED rb: Lee Beebe Jr. 2026 (10 g), Turbo Richard 2026 (9 g), Roman Hemby 2025
 STORED wr: Charlie Becker 2026 (10 g), Nick Marsh 2026 (10 g), Omar Cooper Jr. 2025 (16 g), Elijah Sarratt 2025 (14 g), Elijah Sarratt 2024 (13 g), Omar Cooper Jr. 2024 (13 g)
 STORED rb national boards through 2026-11-14
 STORED wr national boards through 2026-11-14
-[natref] qb: 46 players stored (37 game logs fetched, 9 unchanged)
+[natref] qb: 46 players stored (0 game logs fetched, 46 unchanged)
 STORED natref qb: 46 players through 2026-11-14
-[natref] rb: 44 players stored (39 game logs fetched, 5 unchanged)
+[natref] rb: 44 players stored (0 game logs fetched, 44 unchanged)
 STORED natref rb: 44 players through 2026-11-14
-[natref] wr: 52 players stored (42 game logs fetched, 10 unchanged)
+[natref] wr: 52 players stored (0 game logs fetched, 52 unchanged)
 STORED natref wr: 52 players through 2026-11-14
 FAILED sections: heisman, ap_poll, team
