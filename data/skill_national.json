@@ -1,7 +1,7 @@
 {
  "rb": {
   "latest": {
-   "data_through": "2026-11-14",
+   "data_through": "2026-11-15",
    "boards": {
     "yds": {
      "label": "Rushing yards",
@@ -214,7 +214,7 @@
     "Lee Beebe Jr.",
     "Turbo Richard"
    ],
-   "retrieved_at": "2026-11-15T21:21+00:00"
+   "retrieved_at": "2026-11-16T00:24+00:00"
   },
   "rank_history": [
    {
@@ -303,7 +303,7 @@
     }
    },
    {
-    "through": "2026-11-14",
+    "through": "2026-11-15",
     "ranks": {
      "Lee Beebe Jr.": {
       "yds": 34,
@@ -323,7 +323,7 @@
  },
  "wr": {
   "latest": {
-   "data_through": "2026-11-14",
+   "data_through": "2026-11-15",
    "boards": {
     "rec": {
      "label": "Receptions",
@@ -600,7 +600,7 @@
     "Charlie Becker",
     "Nick Marsh"
    ],
-   "retrieved_at": "2026-11-15T21:21+00:00"
+   "retrieved_at": "2026-11-16T00:24+00:00"
   },
   "rank_history": [
    {
@@ -699,7 +699,7 @@
     }
    },
    {
-    "through": "2026-11-14",
+    "through": "2026-11-15",
     "ranks": {
      "Charlie Becker": {
       "rec": 40,
