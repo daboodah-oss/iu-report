@@ -15,7 +15,7 @@ ValueError: team seasons not stored: Utah 2026 (refused)
 [games] next game kickoff: {'kickoff': '2026-11-21T15:30-05:00', 'tv': 'Peacock'}
 UPDATED next game: {'date': '2026-11-21', 'opp': 'Washington', 'site': 'A', 'source_url': 'https://cfbstats.com/2026/team/306/index.html', 'kickoff': '2026-11-21T15:30-05:00', 'tv': 'Peacock'}
 UPDATED national through 2026-11-17 {'yds': 72, 'td': 19, 'pct': 86, 'rating': 11, 'ypa': 11}
-ADDED BetMGM 2026-11-18 Hoover: None
+SKIPPED: snapshot exists for BetMGM 2026-11-18
 UPDATED cohort: Jeremiah Smith, Darian Mensah, Devon Dampier, CJ Carr
 UPDATED opponent pass-D ranks
 STORED AP Top 25 2026-11-16 1 Georgia, 2 Utah, 3 Notre Dame, 4 UCLA, 5 Miami
@@ -37,8 +37,8 @@ STORED rb national boards through 2026-11-17
 STORED wr national boards through 2026-11-17
 [natref] qb: 46 players stored (0 game logs fetched, 46 unchanged)
 STORED natref qb: 46 players through 2026-11-17
-[natref] rb: 44 players stored (1 game logs fetched, 43 unchanged)
+[natref] rb: 44 players stored (0 game logs fetched, 44 unchanged)
 STORED natref rb: 44 players through 2026-11-17
-[natref] wr: 53 players stored (3 game logs fetched, 50 unchanged)
+[natref] wr: 53 players stored (0 game logs fetched, 53 unchanged)
 STORED natref wr: 53 players through 2026-11-17
 FAILED sections: team
