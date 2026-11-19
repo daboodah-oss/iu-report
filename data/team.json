@@ -4118,7 +4118,7 @@
       }
      ],
      "complete": false,
-     "retrieved_at": "2026-11-18T23:09+00:00",
+     "retrieved_at": "2026-11-19T02:01+00:00",
      "check": "cfbstats season totals matched through 2026-11-17",
      "cfbstats_url": "https://cfbstats.com/2026/team/306/index.html"
     }
@@ -4301,7 +4301,7 @@
       }
      ],
      "complete": false,
-     "retrieved_at": "2026-11-18T23:09+00:00",
+     "retrieved_at": "2026-11-19T02:01+00:00",
      "check": "cfbstats season totals matched through 2026-11-17",
      "cfbstats_url": "https://cfbstats.com/2026/team/257/index.html"
     }
@@ -4484,7 +4484,7 @@
       }
      ],
      "complete": false,
-     "retrieved_at": "2026-11-18T23:10+00:00",
+     "retrieved_at": "2026-11-19T02:01+00:00",
      "check": "cfbstats season totals matched through 2026-11-17",
      "cfbstats_url": "https://cfbstats.com/2026/team/513/index.html"
     }
@@ -4667,7 +4667,7 @@
       }
      ],
      "complete": false,
-     "retrieved_at": "2026-11-18T23:10+00:00",
+     "retrieved_at": "2026-11-19T02:01+00:00",
      "check": "cfbstats season totals matched through 2026-11-17, except passing yards 3,317 in ESPN box scores vs 3,310 on cfbstats; total yards 5,188 in ESPN box scores vs 5,181 on cfbstats",
      "cfbstats_url": "https://cfbstats.com/2026/team/415/index.html"
     }
@@ -4850,9 +4850,192 @@
       }
      ],
      "complete": false,
-     "retrieved_at": "2026-11-18T23:10+00:00",
+     "retrieved_at": "2026-11-19T02:01+00:00",
      "check": "cfbstats season totals matched through 2026-11-17",
      "cfbstats_url": "https://cfbstats.com/2026/team/110/index.html"
+    }
+   }
+  },
+  "254": {
+   "name": "Utah",
+   "seasons": {
+    "2026": {
+     "games": [
+      {
+       "event": "401856768",
+       "date": "2026-09-03",
+       "opp": "Idaho",
+       "opp_id": "70",
+       "site": "H",
+       "pf": 66,
+       "pa": 14,
+       "result": "W 66-14",
+       "total_yds": 633,
+       "rush_yds": 364,
+       "pass_yds": 269,
+       "to_lost": 0,
+       "to_gained": 2,
+       "third_conv": 8,
+       "third_att": 12
+      },
+      {
+       "event": "401856670",
+       "date": "2026-09-12",
+       "opp": "Arkansas",
+       "opp_id": "8",
+       "site": "H",
+       "pf": 43,
+       "pa": 10,
+       "result": "W 43-10",
+       "total_yds": 441,
+       "rush_yds": 140,
+       "pass_yds": 301,
+       "to_lost": 1,
+       "to_gained": 1,
+       "third_conv": 5,
+       "third_att": 9
+      },
+      {
+       "event": "401856801",
+       "date": "2026-09-19",
+       "opp": "Utah State",
+       "opp_id": "328",
+       "site": "H",
+       "pf": 33,
+       "pa": 0,
+       "result": "W 33-0",
+       "total_yds": 480,
+       "rush_yds": 194,
+       "pass_yds": 286,
+       "to_lost": 1,
+       "to_gained": 2,
+       "third_conv": 10,
+       "third_att": 17
+      },
+      {
+       "event": "401856816",
+       "date": "2026-09-26",
+       "opp": "Iowa State",
+       "opp_id": "66",
+       "site": "A",
+       "pf": 31,
+       "pa": 17,
+       "result": "W 31-17",
+       "total_yds": 411,
+       "rush_yds": 205,
+       "pass_yds": 206,
+       "to_lost": 0,
+       "to_gained": 2,
+       "third_conv": 3,
+       "third_att": 10
+      },
+      {
+       "event": "401856827",
+       "date": "2026-10-10",
+       "opp": "Kansas",
+       "opp_id": "2305",
+       "site": "H",
+       "pf": 41,
+       "pa": 24,
+       "result": "W 41-24",
+       "total_yds": 545,
+       "rush_yds": 287,
+       "pass_yds": 258,
+       "to_lost": 2,
+       "to_gained": 1,
+       "third_conv": 7,
+       "third_att": 12
+      },
+      {
+       "event": "401856833",
+       "date": "2026-10-17",
+       "opp": "Colorado",
+       "opp_id": "38",
+       "site": "A",
+       "pf": 27,
+       "pa": 24,
+       "result": "W 27-24",
+       "total_yds": 409,
+       "rush_yds": 131,
+       "pass_yds": 278,
+       "to_lost": 2,
+       "to_gained": 2,
+       "third_conv": 8,
+       "third_att": 17
+      },
+      {
+       "event": "401856837",
+       "date": "2026-10-24",
+       "opp": "Houston",
+       "opp_id": "248",
+       "site": "H",
+       "pf": 21,
+       "pa": 13,
+       "result": "W 21-13",
+       "total_yds": 430,
+       "rush_yds": 226,
+       "pass_yds": 204,
+       "to_lost": 2,
+       "to_gained": 1,
+       "third_conv": 5,
+       "third_att": 10
+      },
+      {
+       "event": "401856848",
+       "date": "2026-10-31",
+       "opp": "Cincinnati",
+       "opp_id": "2132",
+       "site": "A",
+       "pf": 49,
+       "pa": 25,
+       "result": "W 49-25",
+       "total_yds": 534,
+       "rush_yds": 268,
+       "pass_yds": 266,
+       "to_lost": 2,
+       "to_gained": 2,
+       "third_conv": 7,
+       "third_att": 11
+      },
+      {
+       "event": "401856849",
+       "date": "2026-11-07",
+       "opp": "BYU",
+       "opp_id": "252",
+       "site": "H",
+       "pf": 28,
+       "pa": 20,
+       "result": "W 28-20",
+       "total_yds": 330,
+       "rush_yds": 124,
+       "pass_yds": 206,
+       "to_lost": 2,
+       "to_gained": 4,
+       "third_conv": 7,
+       "third_att": 15
+      },
+      {
+       "event": "401856864",
+       "date": "2026-11-14",
+       "opp": "Arizona",
+       "opp_id": "12",
+       "site": "A",
+       "pf": 40,
+       "pa": 39,
+       "result": "W 40-39",
+       "total_yds": 500,
+       "rush_yds": 296,
+       "pass_yds": 204,
+       "to_lost": 3,
+       "to_gained": 1,
+       "third_conv": 6,
+       "third_att": 11
+      }
+     ],
+     "complete": false,
+     "retrieved_at": "2026-11-19T02:01+00:00",
+     "check": "cfbstats season totals matched through 2026-11-17",
+     "cfbstats_url": "https://cfbstats.com/2026/team/732/index.html"
     }
    }
   }
@@ -4911,6 +5094,6 @@
    }
   ],
   "source_url": "https://www.espn.com/college-football/rankings",
-  "retrieved_at": "2026-11-18T23:09+00:00"
+  "retrieved_at": "2026-11-19T02:01+00:00"
  }
 }

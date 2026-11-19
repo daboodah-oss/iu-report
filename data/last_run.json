@@ -1,8 +1,6 @@
 {
- "at": "2026-11-18T18:10-05:00",
- "failed": [
-  "team"
- ],
+ "at": "2026-11-18T21:02-05:00",
+ "failed": [],
  "log": [
   "[schedule] 2026: 12 games, 10 played",
   "[schedule] ESPN finals seen: 10, latest 2026-11-14 W 27-13",
@@ -10,13 +8,13 @@
   "[games] next game kickoff: {'kickoff': '2026-11-21T15:30-05:00', 'tv': 'Peacock'}",
   "[team] Indiana 2026: 10 games; matches cfbstats through 2026-11-17",
   "[team] Georgia 2026: 10 games; matches cfbstats through 2026-11-17",
+  "[team] Utah 2026: 10 games; matches cfbstats through 2026-11-17",
   "[team] Notre Dame 2026: 10 games; matches cfbstats through 2026-11-17",
   "[team] UCLA 2026: 10 games; matches cfbstats through 2026-11-17",
   "[team] Miami 2026: 10 games; matches cfbstats through 2026-11-17",
-  "[team] FAILED: team seasons not stored: Utah 2026 (refused)",
   "[natref] qb: 46 players stored (0 game logs fetched, 46 unchanged)",
   "[natref] rb: 44 players stored (0 game logs fetched, 44 unchanged)",
   "[natref] wr: 53 players stored (0 game logs fetched, 53 unchanged)",
-  "FAILED sections: team"
+  "FAILED sections: none"
  ]
 }
