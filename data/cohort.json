@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "rule": "The four highest-ranked quarterbacks in consensus Heisman odds, other than Hoover. Game logs from ESPN.",
- "retrieved_at": "2026-11-19T02:01+00:00",
+ "retrieved_at": "2026-11-22T06:10+00:00",
  "qbs": [
   {
    "name": "Jeremiah Smith",
@@ -158,6 +158,21 @@
      "rec": 11,
      "rec_yds": 117,
      "rec_td": 1
+    },
+    {
+     "date": "2026-11-21",
+     "opp": "Nebraska Cornhuskers",
+     "result": "L 31-28",
+     "cmp": 0,
+     "att": 0,
+     "yds": 0,
+     "td": 0,
+     "int": 0,
+     "rush_yds": 0,
+     "rush_td": 0,
+     "rec": 6,
+     "rec_yds": 165,
+     "rec_td": 2
     }
    ]
   },
@@ -312,6 +327,21 @@
      "td": 1,
      "int": 0,
      "rush_yds": 7,
+     "rush_td": 0,
+     "rec": 0,
+     "rec_yds": 0,
+     "rec_td": 0
+    },
+    {
+     "date": "2026-11-21",
+     "opp": "Virginia Tech Hokies",
+     "result": "W 28-20",
+     "cmp": 25,
+     "att": 37,
+     "yds": 241,
+     "td": 0,
+     "int": 2,
+     "rush_yds": 24,
      "rush_td": 0,
      "rec": 0,
      "rec_yds": 0,
@@ -474,6 +504,21 @@
      "rec": 0,
      "rec_yds": 0,
      "rec_td": 0
+    },
+    {
+     "date": "2026-11-21",
+     "opp": "TCU Horned Frogs",
+     "result": "W 38-17",
+     "cmp": 18,
+     "att": 28,
+     "yds": 278,
+     "td": 2,
+     "int": 0,
+     "rush_yds": 62,
+     "rush_td": 2,
+     "rec": 0,
+     "rec_yds": 0,
+     "rec_td": 0
     }
    ]
   },
@@ -628,6 +673,21 @@
      "td": 2,
      "int": 1,
      "rush_yds": -7,
+     "rush_td": 0,
+     "rec": 0,
+     "rec_yds": 0,
+     "rec_td": 0
+    },
+    {
+     "date": "2026-11-21",
+     "opp": "SMU Mustangs",
+     "result": "W 24-3",
+     "cmp": 19,
+     "att": 29,
+     "yds": 312,
+     "td": 1,
+     "int": 1,
+     "rush_yds": 5,
      "rush_td": 0,
      "rec": 0,
      "rec_yds": 0,

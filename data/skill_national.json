@@ -1,7 +1,7 @@
 {
  "rb": {
   "latest": {
-   "data_through": "2026-11-17",
+   "data_through": "2026-11-20",
    "boards": {
     "yds": {
      "label": "Rushing yards",
@@ -12,36 +12,36 @@
        "rank": 1,
        "name": "Aiden Flora",
        "team": "Iowa State",
-       "g": 10,
-       "value": 1335.0
+       "g": 11,
+       "value": 1506.0
       },
       {
        "rank": 2,
        "name": "Nate Sheppard",
        "team": "Duke",
-       "g": 10,
-       "value": 1320.0
+       "g": 11,
+       "value": 1436.0
       },
       {
        "rank": 3,
+       "name": "Messiah Burch",
+       "team": "Buffalo",
+       "g": 11,
+       "value": 1310.0
+      },
+      {
+       "rank": 4,
        "name": "Dylan Riley",
        "team": "Boise St",
        "g": 10,
        "value": 1291.0
       },
       {
-       "rank": 4,
+       "rank": 5,
        "name": "Torrance Burgess Jr.",
        "team": "Texas St",
        "g": 10,
        "value": 1225.0
-      },
-      {
-       "rank": 5,
-       "name": "Jahiem White",
-       "team": "North Texas",
-       "g": 10,
-       "value": 1218.0
       }
      ],
      "players": {
@@ -51,7 +51,7 @@
        "g": 10
       },
       "Turbo Richard": {
-       "rank": 42,
+       "rank": 44,
        "value": 745.0,
        "g": 9
       }
@@ -64,17 +64,17 @@
      "top": [
       {
        "rank": 1,
+       "name": "Nate Sheppard",
+       "team": "Duke",
+       "g": 11,
+       "value": 20.0
+      },
+      {
+       "rank": 1,
        "name": "Michael Hawkins Jr.",
        "team": "WVU",
        "g": 10,
        "value": 20.0
-      },
-      {
-       "rank": 2,
-       "name": "Nate Sheppard",
-       "team": "Duke",
-       "g": 10,
-       "value": 19.0
       },
       {
        "rank": 3,
@@ -164,15 +164,15 @@
        "rank": 1,
        "name": "Aiden Flora",
        "team": "Iowa State",
-       "g": 10,
-       "value": 133.5
+       "g": 11,
+       "value": 136.91
       },
       {
        "rank": 2,
        "name": "Nate Sheppard",
        "team": "Duke",
-       "g": 10,
-       "value": 132.0
+       "g": 11,
+       "value": 130.55
       },
       {
        "rank": 3,
@@ -198,7 +198,7 @@
      ],
      "players": {
       "Lee Beebe Jr.": {
-       "rank": 37,
+       "rank": 36,
        "value": 78.6,
        "g": 10
       },
@@ -214,7 +214,7 @@
     "Lee Beebe Jr.",
     "Turbo Richard"
    ],
-   "retrieved_at": "2026-11-19T02:02+00:00"
+   "retrieved_at": "2026-11-22T06:10+00:00"
   },
   "rank_history": [
    {
@@ -320,16 +320,16 @@
     }
    },
    {
-    "through": "2026-11-17",
+    "through": "2026-11-20",
     "ranks": {
      "Lee Beebe Jr.": {
       "yds": 34,
       "td": null,
       "ypc": null,
-      "ypg": 37
+      "ypg": 36
      },
      "Turbo Richard": {
-      "yds": 42,
+      "yds": 44,
       "td": 88,
       "ypc": 28,
       "ypg": 27
@@ -340,7 +340,7 @@
  },
  "wr": {
   "latest": {
-   "data_through": "2026-11-17",
+   "data_through": "2026-11-20",
    "boards": {
     "rec": {
      "label": "Receptions",
@@ -385,13 +385,8 @@
      ],
      "players": {
       "Charlie Becker": {
-       "rank": 41,
+       "rank": 42,
        "value": 53.0,
-       "g": 10
-      },
-      "Nick Marsh": {
-       "rank": 100,
-       "value": 42.0,
        "g": 10
       }
      }
@@ -444,7 +439,7 @@
        "g": 10
       },
       "Nick Marsh": {
-       "rank": 36,
+       "rank": 39,
        "value": 749.0,
        "g": 10
       }
@@ -498,7 +493,7 @@
        "g": 10
       },
       "Nick Marsh": {
-       "rank": 16,
+       "rank": 17,
        "value": 8.0,
        "g": 10
       }
@@ -547,12 +542,12 @@
      ],
      "players": {
       "Charlie Becker": {
-       "rank": 27,
+       "rank": 28,
        "value": 17.92,
        "g": 10
       },
       "Nick Marsh": {
-       "rank": 29,
+       "rank": 30,
        "value": 17.83,
        "g": 10
       }
@@ -606,7 +601,7 @@
        "g": 10
       },
       "Nick Marsh": {
-       "rank": 36,
+       "rank": 37,
        "value": 74.9,
        "g": 10
       }
@@ -617,7 +612,7 @@
     "Charlie Becker",
     "Nick Marsh"
    ],
-   "retrieved_at": "2026-11-19T02:02+00:00"
+   "retrieved_at": "2026-11-22T06:10+00:00"
   },
   "rank_history": [
    {
@@ -735,21 +730,21 @@
     }
    },
    {
-    "through": "2026-11-17",
+    "through": "2026-11-20",
     "ranks": {
      "Charlie Becker": {
-      "rec": 41,
+      "rec": 42,
       "yds": 9,
       "td": 6,
-      "ypr": 27,
+      "ypr": 28,
       "ypg": 11
      },
      "Nick Marsh": {
-      "rec": 100,
-      "yds": 36,
-      "td": 16,
-      "ypr": 29,
-      "ypg": 36
+      "rec": null,
+      "yds": 39,
+      "td": 17,
+      "ypr": 30,
+      "ypg": 37
      }
     }
    }

@@ -5,7 +5,7 @@
   "season": 2026,
   "espn_id": "4685401",
   "source_url": "https://site.web.api.espn.com/apis/common/v3/sports/football/college-football/athletes/4685401/gamelog?season=2026",
-  "retrieved_at": "2026-11-01T02:19+00:00",
+  "retrieved_at": "2026-11-22T06:10+00:00",
   "games": [
    {
     "date": "2026-09-05",
@@ -157,6 +157,23 @@
     "int": 1,
     "rush_att": 3,
     "rush_yds": 2,
+    "rush_td": 0,
+    "sacks": 1
+   },
+   {
+    "date": "2026-11-21",
+    "espn_event": "401858535",
+    "opp": "Washington",
+    "site": "A",
+    "level": "FBS",
+    "result": "L 24-27",
+    "cmp": 7,
+    "att": 13,
+    "yds": 121,
+    "td": 1,
+    "int": 0,
+    "rush_att": 4,
+    "rush_yds": 17,
     "rush_td": 0,
     "sacks": 1
    }
@@ -417,12 +434,12 @@
   ]
  },
  "next_game": {
-  "date": "2026-11-21",
-  "opp": "Washington",
-  "site": "A",
+  "date": "2026-11-28",
+  "opp": "Purdue",
+  "site": "H",
   "source_url": "https://cfbstats.com/2026/team/306/index.html",
-  "kickoff": "2026-11-21T15:30-05:00",
-  "tv": "Peacock"
+  "kickoff": "2026-11-28T19:00-05:00",
+  "tv": "FS1"
  },
  "opp_pass_defense": {
   "method": "Opponent's national rank in passing yards allowed per game (cfbstats.com, FBS). 2025 opponents use final 2025 ranks. 2026 opponents use the current 2026 rank, which moves every week.",
@@ -447,17 +464,18 @@
    }
   },
   "2026": {
-   "through": "2026-11-17",
+   "through": "2026-11-20",
    "ranks": {
-    "North Texas": 73,
+    "North Texas": 75,
     "Western Kentucky": 89,
-    "Northwestern": 75,
+    "Northwestern": 77,
     "Rutgers": 87,
     "Nebraska": 18,
     "Ohio State": 40,
     "Michigan": 13,
     "Minnesota": 27,
-    "Washington": 78
+    "Washington": 79,
+    "Purdue": 113
    },
    "source_url": "https://cfbstats.com/2026/leader/national/team/defense/split01/category02/sort01.html"
   },
