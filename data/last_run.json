@@ -1,5 +1,5 @@
 {
- "at": "2026-11-22T15:52-05:00",
+ "at": "2026-11-22T17:09-05:00",
  "failed": [],
  "log": [
   "[schedule] 2026: 12 games, 11 played",
@@ -12,9 +12,9 @@
   "[team] Notre Dame 2026: 11 games; matches cfbstats through 2026-11-21",
   "[team] Miami 2026: 11 games; matches cfbstats through 2026-11-21",
   "[team] Texas 2026: 11 games; matches cfbstats through 2026-11-21",
-  "[natref] qb: 43 players stored (36 game logs fetched, 7 unchanged)",
-  "[natref] rb: 45 players stored (39 game logs fetched, 6 unchanged)",
-  "[natref] wr: 55 players stored (48 game logs fetched, 7 unchanged)",
+  "[natref] qb: 43 players stored (0 game logs fetched, 43 unchanged)",
+  "[natref] rb: 45 players stored (0 game logs fetched, 45 unchanged)",
+  "[natref] wr: 55 players stored (0 game logs fetched, 55 unchanged)",
   "FAILED sections: none"
  ]
 }
