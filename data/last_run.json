@@ -1,20 +1,20 @@
 {
- "at": "2026-11-22T20:09-05:00",
+ "at": "2026-11-25T18:23-05:00",
  "failed": [],
  "log": [
   "[schedule] 2026: 12 games, 11 played",
   "[schedule] ESPN finals seen: 11, latest 2026-11-21 L 24-27",
   "[games] 2026-11-14 USC: no Hoover ESPN line yet (did not play, or not posted)",
   "[games] next game kickoff: {'kickoff': '2026-11-28T19:00-05:00', 'tv': 'FS1'}",
-  "[team] Indiana 2026: 11 games; matches cfbstats through 2026-11-21",
-  "[team] Georgia 2026: 11 games; matches cfbstats through 2026-11-21",
-  "[team] Utah 2026: 11 games; matches cfbstats through 2026-11-21",
-  "[team] Notre Dame 2026: 11 games; matches cfbstats through 2026-11-21",
-  "[team] Miami 2026: 11 games; matches cfbstats through 2026-11-21",
-  "[team] Texas 2026: 11 games; matches cfbstats through 2026-11-21",
+  "[team] Indiana 2026: 11 games; matches cfbstats through 2026-11-24",
+  "[team] Georgia 2026: 11 games; matches cfbstats through 2026-11-24",
+  "[team] Utah 2026: 11 games; matches cfbstats through 2026-11-24",
+  "[team] Notre Dame 2026: 11 games; matches cfbstats through 2026-11-24",
+  "[team] Miami 2026: 11 games; matches cfbstats through 2026-11-24",
+  "[team] Texas 2026: 11 games; matches cfbstats through 2026-11-24",
   "[natref] qb: 43 players stored (0 game logs fetched, 43 unchanged)",
-  "[natref] rb: 45 players stored (0 game logs fetched, 45 unchanged)",
-  "[natref] wr: 55 players stored (0 game logs fetched, 55 unchanged)",
+  "[natref] rb: 45 players stored (3 game logs fetched, 42 unchanged)",
+  "[natref] wr: 56 players stored (2 game logs fetched, 54 unchanged)",
   "FAILED sections: none"
  ]
 }

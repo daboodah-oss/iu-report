@@ -127,7 +127,7 @@
      "td": 4,
      "cfb_id": "1179517"
     },
-    "cfbstats_through": "2026-11-21",
+    "cfbstats_through": "2026-11-24",
     "cfbstats_url": "https://cfbstats.com/2026/team/306/rushing/index.html",
     "chosen": "named in roster.json",
     "check_diff": []
@@ -238,7 +238,7 @@
      "td": 6,
      "cfb_id": "50216801"
     },
-    "cfbstats_through": "2026-11-21",
+    "cfbstats_through": "2026-11-24",
     "cfbstats_url": "https://cfbstats.com/2026/team/306/rushing/index.html",
     "chosen": "named in roster.json",
     "check_diff": []
@@ -908,7 +908,7 @@
     "check_diff": []
    }
   ],
-  "retrieved_at": "2026-11-23T01:09+00:00",
+  "retrieved_at": "2026-11-25T23:22+00:00",
   "rule": "Current season: players named in roster.json. Earlier seasons: Indiana's top 2 RB by rushing yards (cfbstats.com)."
  },
  "wr": {
@@ -1039,7 +1039,7 @@
      "td": 11,
      "cfb_id": "50304327"
     },
-    "cfbstats_through": "2026-11-21",
+    "cfbstats_through": "2026-11-24",
     "cfbstats_url": "https://cfbstats.com/2026/team/306/receiving/index.html",
     "chosen": "named in roster.json",
     "check_diff": []
@@ -1170,7 +1170,7 @@
      "td": 9,
      "cfb_id": "50312177"
     },
-    "cfbstats_through": "2026-11-21",
+    "cfbstats_through": "2026-11-24",
     "cfbstats_url": "https://cfbstats.com/2026/team/306/receiving/index.html",
     "chosen": "named in roster.json",
     "check_diff": []
@@ -1823,7 +1823,7 @@
     "check_diff": []
    }
   ],
-  "retrieved_at": "2026-11-23T01:09+00:00",
+  "retrieved_at": "2026-11-25T23:22+00:00",
   "rule": "Current season: players named in roster.json. Earlier seasons: Indiana's top 2 WR/TE by receiving yards (cfbstats.com)."
  }
 }

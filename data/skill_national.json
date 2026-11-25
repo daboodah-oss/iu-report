@@ -1,7 +1,7 @@
 {
  "rb": {
   "latest": {
-   "data_through": "2026-11-21",
+   "data_through": "2026-11-24",
    "boards": {
     "yds": {
      "label": "Rushing yards",
@@ -27,7 +27,7 @@
        "name": "Jackson Gutierrez",
        "team": "Navy",
        "g": 10,
-       "value": 1400.0
+       "value": 1405.0
       },
       {
        "rank": 4,
@@ -114,7 +114,7 @@
      ],
      "players": {
       "Turbo Richard": {
-       "rank": 99,
+       "rank": 100,
        "value": 6.0,
        "g": 9
       }
@@ -163,7 +163,7 @@
      ],
      "players": {
       "Turbo Richard": {
-       "rank": 25,
+       "rank": 26,
        "value": 6.59,
        "g": 9
       }
@@ -179,7 +179,7 @@
        "name": "Jackson Gutierrez",
        "team": "Navy",
        "g": 10,
-       "value": 140.0
+       "value": 140.5
       },
       {
        "rank": 2,
@@ -228,7 +228,7 @@
     "Lee Beebe Jr.",
     "Turbo Richard"
    ],
-   "retrieved_at": "2026-11-23T01:09+00:00"
+   "retrieved_at": "2026-11-25T23:22+00:00"
   },
   "rank_history": [
    {
@@ -349,12 +349,29 @@
       "ypg": 24
      }
     }
+   },
+   {
+    "through": "2026-11-24",
+    "ranks": {
+     "Lee Beebe Jr.": {
+      "yds": 28,
+      "td": null,
+      "ypc": null,
+      "ypg": 33
+     },
+     "Turbo Richard": {
+      "yds": 55,
+      "td": 100,
+      "ypc": 26,
+      "ypg": 24
+     }
+    }
    }
   ]
  },
  "wr": {
   "latest": {
-   "data_through": "2026-11-21",
+   "data_through": "2026-11-24",
    "boards": {
     "rec": {
      "label": "Receptions",
@@ -399,7 +416,7 @@
      ],
      "players": {
       "Charlie Becker": {
-       "rank": 37,
+       "rank": 38,
        "value": 59.0,
        "g": 11
       }
@@ -626,7 +643,7 @@
     "Charlie Becker",
     "Nick Marsh"
    ],
-   "retrieved_at": "2026-11-23T01:09+00:00"
+   "retrieved_at": "2026-11-25T23:22+00:00"
   },
   "rank_history": [
    {
@@ -748,6 +765,25 @@
     "ranks": {
      "Charlie Becker": {
       "rec": 37,
+      "yds": 6,
+      "td": 6,
+      "ypr": 21,
+      "ypg": 6
+     },
+     "Nick Marsh": {
+      "rec": null,
+      "yds": 44,
+      "td": 15,
+      "ypr": 26,
+      "ypg": 43
+     }
+    }
+   },
+   {
+    "through": "2026-11-24",
+    "ranks": {
+     "Charlie Becker": {
+      "rec": 38,
       "yds": 6,
       "td": 6,
       "ypr": 21,
