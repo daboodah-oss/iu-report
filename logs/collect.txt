@@ -4,7 +4,7 @@
 [games] next game kickoff: {'kickoff': '2026-11-28T19:00-05:00', 'tv': 'FS1'}
 UPDATED next game: {'date': '2026-11-28', 'opp': 'Purdue', 'site': 'H', 'source_url': 'https://cfbstats.com/2026/team/306/index.html', 'kickoff': '2026-11-28T19:00-05:00', 'tv': 'FS1'}
 UPDATED national through 2026-11-24 {'yds': 75, 'td': 25, 'pct': 82, 'rating': 8, 'ypa': 9}
-ADDED BetMGM 2026-11-25 Hoover: None
+SKIPPED: snapshot exists for BetMGM 2026-11-25
 UPDATED cohort: Jeremiah Smith, Devon Dampier, Darian Mensah, Gio Lopez
 UPDATED opponent pass-D ranks
 STORED AP Top 25 2026-11-22 1 Georgia, 2 Utah, 3 Notre Dame, 4 Miami, 5 Texas
@@ -26,8 +26,8 @@ STORED rb national boards through 2026-11-24
 STORED wr national boards through 2026-11-24
 [natref] qb: 43 players stored (0 game logs fetched, 43 unchanged)
 STORED natref qb: 43 players through 2026-11-24
-[natref] rb: 45 players stored (3 game logs fetched, 42 unchanged)
+[natref] rb: 45 players stored (0 game logs fetched, 45 unchanged)
 STORED natref rb: 45 players through 2026-11-24
-[natref] wr: 56 players stored (2 game logs fetched, 54 unchanged)
+[natref] wr: 56 players stored (0 game logs fetched, 56 unchanged)
 STORED natref wr: 56 players through 2026-11-24
 FAILED sections: none
